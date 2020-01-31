@@ -44,19 +44,3 @@ fields:
   label: Layout
   default: tutorial
   hidden: true
-pages:
-- _videos/global-plus.md
-- _videos/ideation.md
-- _videos/kpis.md
-- _videos/live-org-chart.md
-- _videos/manage-pages.md
-- _videos/messages.md
-- _videos/notes.md
-- _videos/our-plan-4-views.md
-- _videos/pinning.md
-- _videos/security-levels.md
-- _videos/social-teams.md
-- _videos/social-work.md
-- _videos/some-other-video.md
-- _videos/strategy-tree-edit-view.md
-- _videos/upcoming.md

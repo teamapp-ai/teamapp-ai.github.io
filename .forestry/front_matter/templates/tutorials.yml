@@ -19,26 +19,3 @@ fields:
   label: layout
   hidden: false
   default: tutorials
-pages:
-- _tutorials/3h-partners.md
-- _tutorials/ameyethon.md
-- _tutorials/blue-ocean.md
-- _tutorials/bolster.md
-- _tutorials/co-founders-internal-use-only.md
-- _tutorials/coupa-1.md
-- _tutorials/earthtech.md
-- _tutorials/edventureco.md
-- _tutorials/electrolux.md
-- _tutorials/headland-food-group.md
-- _tutorials/iceni-group.md
-- _tutorials/innovation360.md
-- _tutorials/khamaga-1.md
-- _tutorials/namoli.md
-- _tutorials/panorama-destination.md
-- _tutorials/paradigm-bi.md
-- _tutorials/payx.md
-- _tutorials/point-b.md
-- _tutorials/read-co.md
-- _tutorials/sg-partners.md
-- _tutorials/tata-global-beverages-australia.md
-- _tutorials/troyhinchco.md
