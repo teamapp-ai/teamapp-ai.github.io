@@ -1,8 +1,8 @@
 ---
 title: home
 layout: homepage-new
-hero_intro: "{:.font-weight-bold}\n\n# seamlessly execute strategy and day to day
-  work in one place\n\n##### a collaborative experience that aligns and engages everyone\n\n{:.mt-4
+hero_intro: "{:.font-weight-bold}\n\n# Manage repeating tasks, time-bucketed tasks
+  & one-off tasks \n\n##### a collaborative experience that aligns and engages everyone\n\n{:.mt-4
   .mb-0}  \n<a href=\"#explainervideo\" class=\"introVid btn btn-white rounded-pill\"
   data-aos=\"fade-left\" data-aos-delay=\"500\">how it works</a>"
 hero_image: "/uploads/tower-hero.svg"
@@ -41,12 +41,12 @@ features:
   title: thrive
   text: free the talent of all generations to thrive on this new way of thinking and
     working
-seo_title: "#stratapp | strategy execution software for every employee"
-seo_description: Seamlessly execute strategy and day to day work in one place. Strategy
-  and business planning software for all roles, levels and generations
+seo_title: "#team | manage repeating tasks, time-bucketed tasks & one-off tasks"
+seo_description: "Manage repeating tasks, time-bucketed tasks & one-off tasks for
+  one team, or thousands of teams/sites/stores\n\n"
 redirect_from:
-  - /events/
-  - /tutorials/
+- "/events/"
+- "/tutorials/"
 feature_image: "/uploads/feature image - home page 2.JPG"
 stratapp_features:
 - feature_title: culture elevation
