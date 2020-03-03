@@ -2,7 +2,7 @@
 title: home
 layout: homepage-new
 hero_intro: "{:.font-weight-bold}\n\n# Manage repeating tasks, time-bucketed tasks
-  & one-off tasks \n\n##### a collaborative experience that aligns and engages everyone\n\n{:.mt-4
+  & one-off tasks \n\n##### for one team, or thousands of teams/sites/stores\n\n{:.mt-4
   .mb-0}  \n<a href=\"#explainervideo\" class=\"introVid btn btn-white rounded-pill\"
   data-aos=\"fade-left\" data-aos-delay=\"500\">how it works</a>"
 hero_image: "/uploads/tower-hero.svg"
