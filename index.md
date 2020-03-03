@@ -5,7 +5,7 @@ hero_intro: "{:.font-weight-bold}\n\n# Manage repeating tasks, time-bucketed tas
   & one-off tasks \n\n##### for one team, or thousands of teams/sites/stores\n\n{:.mt-4
   .mb-0}  \n<a href=\"#explainervideo\" class=\"introVid btn btn-white rounded-pill\"
   data-aos=\"fade-left\" data-aos-delay=\"500\">how it works</a>"
-hero_image: "/uploads/shutterstock_307289030.jpg"
+hero_image: "/uploads/team.png"
 intro_text: |-
   {:.font-weight-bold}
 
