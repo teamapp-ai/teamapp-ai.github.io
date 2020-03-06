@@ -54,7 +54,7 @@ slug: ''
 menu:
   navigation:
     identifier: _pricing
-    weight: 2
+    weight: 1
 
 ---
 {:.font-weight-bold}
