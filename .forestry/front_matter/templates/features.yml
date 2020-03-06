@@ -26,5 +26,6 @@ fields:
     maxSize: 250
   label: Hero Image
 pages:
+- _features/easy-setup.md
 - _features/task-verification.md
 - features.md
