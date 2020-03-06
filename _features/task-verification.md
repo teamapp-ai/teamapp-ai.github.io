@@ -10,4 +10,4 @@ hero_image: ''
 ---
 Photo
 
-Quiz/Question
+Quiz/Question/photo
