@@ -1,10 +1,12 @@
 ---
 title: home
 layout: homepage-new
-hero_intro: "{:.font-weight-bold}\n\n# Manage repeating tasks, time-bucketed tasks
-  & one-off tasks \n\n##### for one team, or thousands of teams/sites/stores\n\n{:.mt-4
-  .mb-0}  \n<a href=\"#explainervideo\" class=\"introVid btn btn-white rounded-pill\"
-  data-aos=\"fade-left\" data-aos-delay=\"500\">how it works</a>"
+hero_intro: "{:.font-weight-bold}\n\n# The best online task management tool for franchise,
+  retail and hospitality.\n\n##### The best online task management tool for franchise,
+  retail and hospitality.\n\nEasily manage time critical , repeating and adhoc tasks
+  with in built verification across multiple teams and locations\n\n{:.mt-4 .mb-0}
+  \ \n<a href=\"#explainervideo\" class=\"introVid btn btn-white rounded-pill\" data-aos=\"fade-left\"
+  data-aos-delay=\"500\">how it works</a>"
 hero_image: "/uploads/team.png"
 intro_text: |-
   {:.font-weight-bold}
