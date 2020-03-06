@@ -8,3 +8,6 @@ feature_image: ''
 slug: time-critical-tasks
 
 ---
+Open store / close store
+
+Start Shift etc
