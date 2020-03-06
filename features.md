@@ -12,7 +12,7 @@ slug: ''
 menu:
   navigation:
     identifier: _features
-    weight: 3
+    weight: 2
 
 ---
 {:.font-weight-bold}

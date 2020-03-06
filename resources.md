@@ -9,10 +9,6 @@ seo_description: "#stratapp's founders are thought leaders in strategy, executio
   Roger Martin."
 feature_image: ''
 slug: ''
-menu:
-  navigation:
-    identifier: _resources
-    weight: 5
 
 ---
 {:.font-weight-bold}
