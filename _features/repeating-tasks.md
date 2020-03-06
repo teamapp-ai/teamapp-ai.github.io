@@ -1,5 +1,5 @@
 ---
-title: 10-apps-in-1 seamless user experience
+title: Repeating Tasks
 hero_image: "/uploads/02-1.png"
 seo_title: "#stratapp is 10 apps in 1 seamless user experience"
 seo_description: "#stratapp is 10 apps in 1. Companies don't want to send employees

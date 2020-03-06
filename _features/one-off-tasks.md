@@ -1,5 +1,5 @@
 ---
-title: bring risk management alive
+title: One Off Tasks
 seo_title: risk management software | project management software
 seo_description: 'Risk management software as part of #stratapp''s 10 apps in 1, making
   risk management software adoption easy, at all levels and org-wide.'

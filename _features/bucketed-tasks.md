@@ -1,5 +1,5 @@
 ---
-title: engage talent org-wide to collaborate on strategy and execution, in real time
+title: Bucketed Tasks
 hero_image: "/uploads/04.png"
 seo_title: strategy software with org-wide collaboration
 seo_description: Strategy software with org-wide collaboration on strategy execution,
