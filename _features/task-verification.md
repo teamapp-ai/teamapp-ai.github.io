@@ -14,3 +14,5 @@ icon: "/uploads/icon-cog-belt.svg"
 Tasks that involve Occupational Health and Safety, HR compliance, Cleanliness Procedures and more need proof that it was done right. It’s also a great measure to protect your staff should any contention or doubts arise.
 
 \#team’s verification on tasks feature ensures that not only are you ahead of the competition with consistency but you can prove it.
+
+![asdasd](/uploads/2018/02/17/building2.jpg "sads")http://www.reddit.com
