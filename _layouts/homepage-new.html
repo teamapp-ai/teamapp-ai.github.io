@@ -52,6 +52,7 @@ layout: default
                 </div>
                 <h3 class="font-weight-bold mb-2">{{ feature.title }}</h3>
                 <p>{{ feature.content | strip_html | truncatewords: 20 }}</p>
+                <a title="Read {{ feature.title }}" class="text-primary" href="{{ feature.url | absolute_url }}">see more</a>
 
               </div>
             </div>
