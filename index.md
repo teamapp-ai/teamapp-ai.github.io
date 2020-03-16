@@ -1,66 +1,60 @@
 ---
 title: home
 layout: homepage-new
-hero_intro: "{:.font-weight-bold}\n\n# The best online task management tool for franchise,
-  retail and hospitality.\n\n##### The best online task management tool for franchise,
-  retail and hospitality.\n\nEasily manage time critical , repeating and adhoc tasks
-  with in built verification across multiple teams and locations\n\n{:.mt-4 .mb-0}
-  \ \n<a href=\"#explainervideo\" class=\"introVid btn btn-white rounded-pill\" data-aos=\"fade-left\"
-  data-aos-delay=\"500\">how it works</a>"
+hero_intro: "{:.font-weight-bold}\n\n# The best operational task management tool for
+  your business.\n\nEasily manage repeating & time critical tasks with in built verification
+  across multiple teams and locations\n\n{:.mt-4 .mb-0}  \n<a href=\"#explainervideo\"
+  class=\"introVid btn btn-white rounded-pill\" data-aos=\"fade-left\" data-aos-delay=\"500\">how
+  it works</a>"
 hero_image: "/uploads/team.png"
-intro_text: |-
-  {:.font-weight-bold}
-
-  # book a CxO Event or Video Call
-
-  ## open to CEOs, business owners and C-level executives <span>(limited availability)</span>
-  <a href="/events" target="_blank" class="btn btn-danger rounded-pill mt-3">Book an event</a>
-columns_text_1: |-
-  {:.font-weight-bold}
-
-  ### fortnightly <a href="/events/cxos/">CxO Events</a> and fortnightly <a href="/events/consultants/">Consultant Events</a> - see the product, meet a co-founder and explore new ideas with other attendees
-columns_text_2: |-
-  Our <a href="/events/cxos/">CxO Events</a> are the best way to learn how to take your organization to the next level on this new way of thinking and working.  CxO Events also provide a great forum for networking and exploring new ideas and market trends.
-
-  Our <a href="/events/consultants/">Consultant Events</a> zero in on how to grow your consulting practice by adding more value to clients and their employees: win more clients, on-sell more work per client and derisk each client's execution.
+intro_text: ''
+columns_text_1: ''
+columns_text_2: ''
 features:
 - icon: "/uploads/ico-articulate.svg"
-  title: articulate
-  text: bring everyone on the same journey, with healthy bottom up and top down inspiration
+  title: Repeating Tasks
+  text: "Have your employees take ownership of repeating tasks - every business has
+    tasks that need to get done or nothing else can. #team ensures that the little
+    things get done so your business delivers consistently, every single day of trade.\n\nSame
+    open time, same great coffee, always fully stocked shelves, cleaned areas, lunch
+    specials prepped and ready plus plenty of change in the till. All without any
+    hiccups. "
 - icon: "/uploads/ico-collaborate.svg"
-  title: collaborate
-  text: collaborate in real time on strategy, KPIs, projects and day-to-day work
+  title: Critical tasks
+  text: "Critical Tasks need to get done or nothing else can. The common sense one’s
+    that sometimes get overlooked and then translate to last minute panics and half
+    measures that make you look like you don’t know what you’re doing.\n\nAn app that
+    alerts your staff that something critical needs to get done, without you having
+    to micro manage it and staff feeling ‘heckled’ by their boss. \n\nYou can rest
+    easy knowing your business works without you and your staff feel they can be trusted
+    to get it right.  \n"
 - icon: "/uploads/ico-align.svg"
-  title: align
-  text: effortlessly align all levels, functions, verticals, horizontals and geographies
-- icon: "/uploads/ico-engage.svg"
-  title: engage
-  text: achieve org-wide engagement in a genuine and meaningful way, like never before
-- icon: "/uploads/ico-see.svg"
-  title: see
-  text: line-of-sight transparency in real time on strategy, KPIs, people and work
-- icon: "/uploads/ico-thrive.svg"
-  title: thrive
-  text: free the talent of all generations to thrive on this new way of thinking and
-    working
-seo_title: "#team | manage repeating tasks, time-bucketed tasks & one-off tasks"
-seo_description: "Manage repeating tasks, time-bucketed tasks & one-off tasks for
-  one team, or thousands of teams/sites/stores\n\n"
+  title: Verification
+  text: "Did it get done to your standard? More than just ensuring brand consistency
+    or that displays look right. Sometimes there’s a serious ramifications to not
+    having tasks done to the right way . As an owner or frontline manager you need
+    to ensure standards are being maintained and meet legislative codes. \n\nTasks
+    that involve Occupational Health and Safety, HR compliance, Cleanliness Procedures
+    and more need proof that it was done right. It’s also a great measure to protect
+    your staff should any contention or doubts arise. \n\n#team’s verification on
+    tasks feature ensures that not only are you ahead of any competition with consistency
+    but you’re also 100% compliant to codes.\n\n"
+seo_title: "#team | manage repeating & time critical tasks "
+seo_description: "Manage repeating & time critical tasks  for one team, or thousands
+  of teams/sites/stores\n\n"
 redirect_from:
 - "/events/"
 - "/tutorials/"
-feature_image: "/uploads/feature image - home page 2.JPG"
+feature_image: ''
 stratapp_features:
-- feature_title: culture elevation
+- feature_title: Cadence
   feature_text: |-
     * radical transparency and trust
     * real-time org-wide collaboration
     * way more than just a job, at all levels
   icon: "/uploads/icon-handshake.svg"
-- feature_title: next gen ready
-  feature_text: |-
-    * by 2025 more than 75% of employees are y-gen / millennials
-    * asking y-gen to collaborate via email and static docs, is like asking all of us to go back to using fax machines
+- feature_title: Work Life Balance
+  feature_text: ''
   icon: "/uploads/icon-thumbsup.svg"
 - feature_title: employee productivity
   feature_text: |-
