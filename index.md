@@ -53,10 +53,8 @@ stratapp_features:
     * real-time org-wide collaboration
     * way more than just a job, at all levels
   icon: "/uploads/icon-handshake.svg"
-- feature_title: next gen ready
-  feature_text: |-
-    * by 2025 more than 75% of employees are y-gen / millennials
-    * asking y-gen to collaborate via email and static docs, is like asking all of us to go back to using fax machines
+- feature_title: Work Life Balance
+  feature_text: ''
   icon: "/uploads/icon-thumbsup.svg"
 - feature_title: employee productivity
   feature_text: |-
