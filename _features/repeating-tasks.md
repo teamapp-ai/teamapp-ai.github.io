@@ -9,7 +9,6 @@ slug: features/repeating-tasks
 icon: "/uploads/icon-handshake.svg"
 
 ---
-**Have your employees take ownership of repeating tasks - every business has tasks that need to get done or nothing else can. #team ensures that the little things get done so your business delivers consistently, every single day of trade.**
+**Have your employees take ownership of repeating tasks - every business has tasks that need to get done day in day out. #team ensures that the little things get done so your business delivers consistently, every single day of trade.**
 
-  
 Same open time, same great coffee, always fully stocked shelves, cleaned areas, lunch specials prepped and ready plus plenty of change in the till. All without any hiccups.
