@@ -1,12 +1,12 @@
 ---
 title: Task Verification
-date: 
+date: 2020-03-15 14:00:00 +0000
 slug: ''
 seo_title: ''
 seo_description: ''
 feature_image: ''
 hero_image: ''
-date: 2019-06-24T08:00:00.000+00:00
+
 ---
 Photo
 
