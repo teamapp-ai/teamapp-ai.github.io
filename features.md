@@ -1,10 +1,8 @@
 ---
 title: features
 layout: features
-seo_title: strategy+execution+collaboration SaaS that even millennials love
-seo_description: 'Seamlessly execute strategy, business plans, KPIs/OKRs, ideation
-  and initiatives, alongside day to day work. #stratapp is 10-apps-in-1 seamless user
-  experience, that even the millennials love.'
+seo_title: The best operational task management tool for your business
+seo_description: 'SEasily manage repeating & time critical tasks with in built verification across multiple teams and locations'
 hero_image: ''
 date: 
 feature_image: "/uploads/feature image - features page-1.JPG"
@@ -17,6 +15,4 @@ menu:
 ---
 {:.font-weight-bold}
 
-# strategy execution collaboration SaaS that even millennials love
-
-##### execute strategy, business plans, KPIs/OKRs, ideation and initiatives, alongside day to day work
+# Easily manage repeating & time critical tasks with in built verification across multiple teams and locations
