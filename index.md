@@ -12,24 +12,33 @@ columns_text_1: ''
 columns_text_2: ''
 features:
 - icon: "/uploads/ico-articulate.svg"
-  title: articulate
-  text: bring everyone on the same journey, with healthy bottom up and top down inspiration
+  title: Repeating Tasks
+  text: "Have your employees take ownership of repeating tasks - every business has
+    tasks that need to get done or nothing else can. #team ensures that the little
+    things get done so your business delivers consistently, every single day of trade.\n\nSame
+    open time, same great coffee, always fully stocked shelves, cleaned areas, lunch
+    specials prepped and ready plus plenty of change in the till. All without any
+    hiccups. "
 - icon: "/uploads/ico-collaborate.svg"
-  title: collaborate
-  text: collaborate in real time on strategy, KPIs, projects and day-to-day work
+  title: Critical tasks
+  text: "Critical Tasks need to get done or nothing else can. The common sense one’s
+    that sometimes get overlooked and then translate to last minute panics and half
+    measures that make you look like you don’t know what you’re doing.\n\nAn app that
+    alerts your staff that something critical needs to get done, without you having
+    to micro manage it and staff feeling ‘heckled’ by their boss. \n\nYou can rest
+    easy knowing your business works without you and your staff feel they can be trusted
+    to get it right.  \n"
 - icon: "/uploads/ico-align.svg"
-  title: align
-  text: effortlessly align all levels, functions, verticals, horizontals and geographies
-- icon: "/uploads/ico-engage.svg"
-  title: engage
-  text: achieve org-wide engagement in a genuine and meaningful way, like never before
-- icon: "/uploads/ico-see.svg"
-  title: see
-  text: line-of-sight transparency in real time on strategy, KPIs, people and work
-- icon: "/uploads/ico-thrive.svg"
-  title: thrive
-  text: free the talent of all generations to thrive on this new way of thinking and
-    working
+  title: Verification
+  text: "Did it get done to your standard? More than just ensuring brand consistency
+    or that displays look right. Sometimes there’s a serious ramifications to not
+    having tasks done to the right way . As an owner or frontline manager you need
+    to ensure standards are being maintained and meet legislative codes. \n\nTasks
+    that involve Occupational Health and Safety, HR compliance, Cleanliness Procedures
+    and more need proof that it was done right. It’s also a great measure to protect
+    your staff should any contention or doubts arise. \n\n#team’s verification on
+    tasks feature ensures that not only are you ahead of any competition with consistency
+    but you’re also 100% compliant to codes.\n\n"
 seo_title: "#team | manage repeating & time critical tasks "
 seo_description: "Manage repeating & time critical tasks  for one team, or thousands
   of teams/sites/stores\n\n"
@@ -38,7 +47,7 @@ redirect_from:
 - "/tutorials/"
 feature_image: ''
 stratapp_features:
-- feature_title: culture elevation
+- feature_title: Cadence
   feature_text: |-
     * radical transparency and trust
     * real-time org-wide collaboration
