@@ -1,28 +1,15 @@
 ---
 title: home
 layout: homepage-new
-hero_intro: "{:.font-weight-bold}\n\n# The best online task management tool for franchise,
-  retail and hospitality.\n\n##### The best online task management tool for franchise,
-  retail and hospitality.\n\nEasily manage time critical , repeating and adhoc tasks
-  with in built verification across multiple teams and locations\n\n{:.mt-4 .mb-0}
-  \ \n<a href=\"#explainervideo\" class=\"introVid btn btn-white rounded-pill\" data-aos=\"fade-left\"
-  data-aos-delay=\"500\">how it works</a>"
+hero_intro: "{:.font-weight-bold}\n\n# The best operational task management tool for
+  your business.\n\nEasily manage repeating & time critical tasks with in built verification
+  across multiple teams and locations\n\n{:.mt-4 .mb-0}  \n<a href=\"#explainervideo\"
+  class=\"introVid btn btn-white rounded-pill\" data-aos=\"fade-left\" data-aos-delay=\"500\">how
+  it works</a>"
 hero_image: "/uploads/team.png"
-intro_text: |-
-  {:.font-weight-bold}
-
-  # book a CxO Event or Video Call
-
-  ## open to CEOs, business owners and C-level executives <span>(limited availability)</span>
-  <a href="/events" target="_blank" class="btn btn-danger rounded-pill mt-3">Book an event</a>
-columns_text_1: |-
-  {:.font-weight-bold}
-
-  ### fortnightly <a href="/events/cxos/">CxO Events</a> and fortnightly <a href="/events/consultants/">Consultant Events</a> - see the product, meet a co-founder and explore new ideas with other attendees
-columns_text_2: |-
-  Our <a href="/events/cxos/">CxO Events</a> are the best way to learn how to take your organization to the next level on this new way of thinking and working.  CxO Events also provide a great forum for networking and exploring new ideas and market trends.
-
-  Our <a href="/events/consultants/">Consultant Events</a> zero in on how to grow your consulting practice by adding more value to clients and their employees: win more clients, on-sell more work per client and derisk each client's execution.
+intro_text: ''
+columns_text_1: ''
+columns_text_2: ''
 features:
 - icon: "/uploads/ico-articulate.svg"
   title: articulate
@@ -43,13 +30,13 @@ features:
   title: thrive
   text: free the talent of all generations to thrive on this new way of thinking and
     working
-seo_title: "#team | manage repeating tasks, time-bucketed tasks & one-off tasks"
-seo_description: "Manage repeating tasks, time-bucketed tasks & one-off tasks for
-  one team, or thousands of teams/sites/stores\n\n"
+seo_title: "#team | manage repeating & time critical tasks "
+seo_description: "Manage repeating & time critical tasks  for one team, or thousands
+  of teams/sites/stores\n\n"
 redirect_from:
 - "/events/"
 - "/tutorials/"
-feature_image: "/uploads/feature image - home page 2.JPG"
+feature_image: ''
 stratapp_features:
 - feature_title: culture elevation
   feature_text: |-
