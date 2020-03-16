@@ -15,4 +15,6 @@ Tasks that involve Occupational Health and Safety, HR compliance, Cleanliness Pr
 
 \#team’s verification on tasks feature ensures that not only are you ahead of the competition with consistency but you can prove it.
 
-![asdasd](/uploads/2018/02/17/building2.jpg "sads")
+
+
+[![alt text](/uploads/2018/02/17/building2.jpg "sads")](http://www.google.com)
