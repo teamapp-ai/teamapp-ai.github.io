@@ -44,10 +44,6 @@ footer_cta: |-
 footer_image_background: "/uploads/bottom-banner-bg.png"
 feature_image: "/uploads/collaborating.jpg"
 slug: ''
-menu:
-  navigation:
-    identifier: _about
-    weight: 3
 
 ---
 {:.font-weight-bold}
