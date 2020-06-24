@@ -49,19 +49,19 @@ body {
 	background-color: $white;
 }
 .btn-danger {
- //   @include gradient-bg($danger, -90deg);
-  //  box-shadow: 0px 2px 3px 0px rgba($danger, 0.6);
+    @include gradient-bg($danger, -90deg);
+    box-shadow: 0px 2px 3px 0px rgba($danger, 0.6);
 }
 .btn-primary {
- //   @include gradient-bg($primary, -90deg);
-  //  box-shadow: 0px 2px 3px 0px rgba($primary, 0.6);
+    @include gradient-bg($primary, -90deg);
+    box-shadow: 0px 2px 3px 0px rgba($primary, 0.6);
 }
 .btn-outline-danger,
 .btn-outline-dark {
-//	box-shadow: 0px 2px 3px 0px rgba($white, 0.6);
+	box-shadow: 0px 2px 3px 0px rgba($white, 0.6);
 
 	&:hover {
-//		box-shadow: inset 0px 0px 0px 2px $white;
+		box-shadow: inset 0px 0px 0px 2px $white;
 	}
 }
 .btn {
@@ -70,6 +70,7 @@ body {
 .btn-sm {
 	font-size: 0.8rem;
 	padding: 0.4em 1.2em;
+	
 }
 .c-prices-tab {
 	flex-wrap: unset;
@@ -127,10 +128,6 @@ body {
 
 h1 {
 	font-size: 1.875rem;
-	font-weight: 800;
-}
-h2,h3 {
-	font-weight: 800;
 }
 .shrinkable { overflow: hidden; transition: all 0.3s ease; }
 
@@ -188,4 +185,14 @@ h2,h3 {
 	-webkit-transition: all 0.5s ease;
 	-moz-transition: all 0.5s ease;
 	transition: all 0.5s ease;
+}
+
+
+.connects-section-front {
+	@include media-breakpoint-down(md) {
+		img {
+			max-height: 65px;
+			width: auto !important;
+		}
+	}	
 }

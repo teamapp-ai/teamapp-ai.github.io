@@ -39,20 +39,20 @@
 
   <link rel="icon" type="image/png" href="http://localhost:4000/images/general/favicon.png"/>
 
-  <link href="https://fonts.googleapis.com/css?family=Maven+Pro:400,700,800&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Rubik:400,700&amp;display=swap" rel="stylesheet">
   
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/aos/2.3.4/aos.css" />
 
   <link rel="stylesheet" href="http://localhost:4000/dist/styles/main.css">
 
-  <!-- Google Tag Manager <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start': new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0], j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src= 'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f); })(window,document,'script','dataLayer','GTM-PP2CQGZ');</script> <!-- End Google Tag Manager -->
+  <!-- Google Tag Manager --> <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start': new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0], j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src= 'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f); })(window,document,'script','dataLayer','GTM-PP2CQGZ');</script> <!-- End Google Tag Manager -->
   
 
 
 </head>
 <body class="d-flex flex-column h-100 bookademo-drawer-push">
 
-  <!-- Google Tag Manager (noscript)  <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PP2CQGZ" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript> <!-- End Google Tag Manager (noscript) -->
+  <!-- Google Tag Manager (noscript) --> <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PP2CQGZ" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript> <!-- End Google Tag Manager (noscript) -->
 
 
 
@@ -71,26 +71,23 @@
 
 
 
+
 <header class="c-header">
-    
-    <div class="header-bar bg-primary p-2">
-
-      <div class="container">
-          <div class="login-buttons d-flex justify-content-end">
-              <a href="#" class="btn btn-sm btn-danger">Login mgt app</a> <a href="#" class="ml-1 btn btn-sm btn-danger">Login team app</a>
-          </div>
-      </div>
-
-    </div>
+  
     <nav class="navbar navbar-expand-lg">
      <div class="container">
 
-        <a href="/" class="navbar-brand"><img src="/images/content/logo.png"></a>
+        <a href="/" class="navbar-brand"><img src="/images/content/logo.svg"></a>
 
         <button type="button" data-toggle="collapse" data-target="#navbarHeaderCollapse" aria-controls="navbarHeaderCollapse" aria-expanded="false" aria-label="Toggle navigation" class="navbar-toggler collapsed"><span class="navbar-toggler-icon"></span></button>
         
         <div id="navbarHeaderCollapse" class="navbar-collapse collapse">
-          <ul class="navbar-nav ml-auto">
+          <ul class="navbar-nav">
+            
+            <li class="nav-item ">
+              
+              <a class="nav-link" href="http://localhost:4000/strategy-execution/">strategy execution</a>
+            </li>
             
             <li class="nav-item ">
               
@@ -118,6 +115,17 @@
             </li>
             
           </ul>
+
+          <form class="form-inline mt-2 mt-md-0" action="/events">
+            <!-- <button type="text" class="btn btn-danger rounded-pill my-2 my-sm-0">Book an event</button> -->
+
+            <a href="/refer-us" class="btn btn-danger rounded-pill my-2 my-sm-0 text-white">refer us</a>
+
+            <a class="bookademo-btn btn btn-danger rounded-pill my-2 my-sm-0 text-white">Book a Demo</a>
+            
+            <a href="https://app.stratapp.ai" target="_blank" class="link link-app my-2 my-sm-0 text-primary">login</a>
+            
+          </form>
 
         </div>
       </div>
@@ -155,6 +163,14 @@
         <div class="container">
           <div id="navbarFooterCollapse" class="navbar-collapse collapse">
             <ul class="navbar-nav align-items-md-center">
+            
+            <li class="nav-item ">
+              
+              <a href="http://localhost:4000/strategy-execution/">
+                    strategy execution
+                    
+                  </a>
+            </li>
             
             <li class="nav-item ">
               
@@ -291,32 +307,19 @@
               <option selected value='Website'>Website</option>
             </select>
 
-            <select style='display:none;width:250px;' name='Lead Status'>
+            <select style='display:none;width:100%;box-sizing:border-box;' name='Lead Status'>
               <option value='-None-'>-None-</option>
-              <option value='Created'>Created</option>
-              <option selected value='Demo&#x20;Request'>Demo Request</option>
-              <option value='LI&#x20;invited&#x20;to&#x20;connect'>LI invited to connect</option>
-              <option value='Li&#x20;invitation&#x20;withdrawn'>Li invitation withdrawn</option>
-              <option value='LI&#x20;reinvited&#x20;to&#x20;connect'>LI reinvited to connect</option>
+              <option value='created'>created</option>
+              <option selected value='demo&#x20;request&#x20;from&#x20;website&#x20;form'>demo request from website form</option>
               <option value='LI&#x20;connected'>LI connected</option>
-              <option value='LIm&#x20;response&#x20;sent'>LIm response sent</option>
-              <option value='LIm&#x20;chaser&#x20;sent'>LIm chaser sent</option>
-              <option value='LI&#x20;responding&#x20;to&#x20;messages'>LI responding to messages</option>
-              <option value='Pre&#x20;Event&#x20;-&#x20;meeting&#x20;booked'>Pre Event - meeting booked</option>
-              <option value='Pre&#x20;Event&#x20;-&#x20;meeting&#x20;held'>Pre Event - meeting held</option>
-              <option value='CxO&#x20;Event&#x20;-&#x20;registered'>CxO Event - registered</option>
-              <option value='CxO&#x20;Event&#x20;-&#x20;attended'>CxO Event - attended</option>
-              <option value='Consultant&#x20;Event&#x20;-&#x20;registered'>Consultant Event - registered</option>
-              <option value='Consultant&#x20;Event&#x20;-&#x20;attended'>Consultant Event - attended</option>
-              <option value='Consultant&#x20;LT&#x20;-&#x20;booked'>Consultant LT - booked</option>
-              <option value='Consultant&#x20;LT&#x20;-&#x20;held'>Consultant LT - held</option>
-              <option value='Step&#x20;1&#x20;-&#x20;CxO&#x20;Call&#x20;-&#x20;invited'>Step 1 - CxO Call - invited</option>
-              <option value='Step&#x20;1&#x20;-&#x20;CxO&#x20;Call&#x20;-&#x20;invitation&#x20;accepted'>Step 1 - CxO Call - invitation accepted</option>
+              <option value='engaged&#x20;&#x2f;&#x20;evaluating'>engaged &#x2f; evaluating</option>
+              <option value='free&#x20;trial&#x20;set-up&#x20;call&#x20;booked'>free trial set-up call booked</option>
+              <option value='free&#x20;trial&#x20;set-up&#x20;call&#x20;held&#x20;&#x28;convert&#x20;to&#x20;Deal&#x29;'>free trial set-up call held &#x28;convert to Deal&#x29;</option>
               <option value='Closed&#x20;Lost'>Closed Lost</option>
               <option value='Qualified&#x20;Out'>Qualified Out</option>
               <option value='Junk&#x20;Lead'>Junk Lead</option>
-              <option value='Pre-Qualified&#x20;-&#x20;DO&#x20;NOT&#x20;USE'>Pre-Qualified - DO NOT USE</option>
             </select>
+
             <div class="text-right">
               <button type="submit" id="formsubmit" class="btn btn-danger rounded-pill">Submit</button>
             </div>

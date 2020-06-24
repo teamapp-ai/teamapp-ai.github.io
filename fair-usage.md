@@ -1,6 +1,6 @@
 ---
 title: fair usage
-seo_title: "#team fair usage policy "
+seo_title: "#stratapp fair usage policy "
 seo_description: 'To ensure the continued availability of our services, we have a
   ''Fair Use Policy'' to make sure our services are not subject to misuse. '
 feature_image: ''
@@ -8,7 +8,7 @@ feature_image: ''
 ---
 **Fair Use Policy**
 
-The Service, as defined under the Terms page on [https://teamapp.ai/](https://teamapp.ai/), is operated by #team Tradings Pty Ltd (&quot;#team&quot;, &quot;us&quot;, &quot;we&quot;, or &quot;our&quot;) on behalf of its clients and partners. To ensure the continued availability of our services, we have a &#39;Fair Use Policy&#39; to make sure our services are not subject to misuse.
+The Service, as defined under the Terms page on [https://stratapp.ai](https://stratapp.ai), is operated by #stratapp Tradings Pty Ltd (&quot;#stratapp&quot;, &quot;us&quot;, &quot;we&quot;, or &quot;our&quot;) on behalf of its clients and partners. To ensure the continued availability of our services, we have a &#39;Fair Use Policy&#39; to make sure our services are not subject to misuse.
 
 **Use impairing our services**
 
@@ -16,14 +16,14 @@ If we believe that your use is impairing the security, performance or integrity 
 
 **Excessive Use**
 
-Excessive use is a continuing and unreasonably disproportionate use of the service when compared to other users, or use that is deemed by #team to be structured in a way so as to avoid paying for users.  Use in excess of the average usage of all customers is considered excessive use.
+Excessive use is a continuing and unreasonably disproportionate use of the service when compared to other users, or use that is deemed by #stratapp to be structured in a way so as to avoid paying for users.  Use in excess of the average usage of all customers is considered excessive use.
 
-If excessive use is deemed by #team, then #team reserves the right to suspend access to the service or any other feature immediately, without notice to you.
+If excessive use is deemed by #stratapp, then #stratapp reserves the right to suspend access to the service or any other feature immediately, without notice to you.
 
 **Illegal Use**
 
-Should the Service be used for any illegal purpose as defined by common law or inappropriately as deemed by #team, then #team reserves the right to suspend access to the service or any other feature immediately, without notice to you.
+Should the Service be used for any illegal purpose as defined by common law or inappropriately as deemed by #stratapp, then #stratapp reserves the right to suspend access to the service or any other feature immediately, without notice to you.
 
 **Changes**
 
-#team may update this Fair Use Policy from time to time to reflect company and customer feedback or improve the services provided.
+#stratapp may update this Fair Use Policy from time to time to reflect company and customer feedback or improve the services provided.

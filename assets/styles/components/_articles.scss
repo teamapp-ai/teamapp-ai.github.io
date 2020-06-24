@@ -48,3 +48,38 @@
     background-repeat: no-repeat;
     background-position: 12px center !important;
 }
+
+.article, .resources {
+	h1 {
+		font-size: 3rem;
+	}
+	h2 {
+		font-size: 2.5rem;
+	}
+	h3 {
+		font-size: 1.875rem;
+	}
+	h4 {
+		font-size: 1.5625rem;
+	}
+	h5 {
+		font-size: 1.25rem;
+	}
+	h6 {
+		font-size: 1.1rem;
+		font-weight: 600;
+	}
+	p {
+		margin-bottom: 1em;
+	}
+	img {
+		max-width: 100%;
+		height: auto;
+	}
+	.c-founder {
+		img.rounded-circle {
+			width: 114px;
+    		height: 114px;
+		}
+	}
+}
