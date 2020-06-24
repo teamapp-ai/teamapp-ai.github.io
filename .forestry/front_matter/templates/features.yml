@@ -32,5 +32,4 @@ fields:
   label: Icon
   hidden: false
 pages:
-- _features/task-verification.md
 - features.md
