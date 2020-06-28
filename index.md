@@ -1,11 +1,9 @@
 ---
 title: home
 layout: homepage-new
-hero_intro: "{:.font-weight-bold}\n\n# strategy execution and daily work, in one app\n\n#####
-  an intuitive SaaS app solving the problem of urgent overtaking important and how
-  to make strategy execution successful\n\n{:.mt-4 .mb-0}  \n<a href=\"#explainervideo\"
-  class=\"introVid btn btn-white rounded-pill\" data-aos=\"fade-left\" data-aos-delay=\"500\">how
-  it works</a>"
+hero_intro: "{:.font-weight-bold}\n\n# a beautifully simple app for\n\n##### xxxx\n\n{:.mt-4
+  .mb-0}  \n<a href=\"#explainervideo\" class=\"introVid btn btn-white rounded-pill\"
+  data-aos=\"fade-left\" data-aos-delay=\"500\">how it works</a>"
 hero_image: "/uploads/tower-hero.svg"
 intro_text: |-
   {:.font-weight-bold}
@@ -43,11 +41,9 @@ features:
   title: thrive
   text: free the talent of all generations to thrive on this new way of thinking and
     working
-seo_title: strategy execution SaaS app for every employee to engage on strategy and
-  daily work
-seo_description: Strategy execution SaaS app to seamlessly execute strategy and day
-  to day work in one place. Making strategy execution successful whilst solving urgent
-  overtaking important.
+seo_title: repeating tasks across one or multiple teams made easy
+seo_description: Repeating tasks across one or multiple teams made easy. Stop trying
+  to manage repeating tasks in spreadsheets and apps designed for something else.
 redirect_from:
 - "/events/"
 - "/tutorials/"
