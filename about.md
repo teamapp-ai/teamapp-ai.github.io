@@ -11,9 +11,9 @@ intro_text: |-
 
   3 weeks to achieve genuine and sustainable digital transformation, on clear ground rules that include leading by example and eliminating internal email.
 
-  Start with one grouping of 10 to 100 people.  After 3 weeks, roll out progressively by level, function or geography.
+  Start with one grouping of 10 to 100 people.  After 3 weeks thriving in this new paradigm, then roll out org-wide by level, function or geography.
 
-  Rely on peer-to-peer coaching and viral adoption, or run an in-house training program, or engage our coaching partner.
+  Rely on peer-to-peer coaching and viral adoption, or run an in-house training program, or engage one of our coaching partners.
 
   Roll out in 4 easy phases, explained [here](https://stratappsaas.com/blog/how-to-implement/ "how to implement").
 
@@ -26,7 +26,7 @@ section_text: |-
 
   For 30 years strategy formation, communication and execution has been flawed.
 
-  The age old paradigm of top-down static docs doesn't work.  For most organizations, executing strategy rarely meets expectations.
+  The age old paradigm of top-down static docs does not work.  For most organizations, executing strategy rarely meets expectations.
 
   It is time we fixed this.
 
@@ -55,4 +55,4 @@ menu:
 ---
 # strategy execution rarely meets expectations, often due to a subtle disconnect between leaders and teams
 
-##### and each day at work urgent takes over important, with internal email consuming 40% of our time
+##### and urgent overtakes important, with internal comms consuming 40% of our time
