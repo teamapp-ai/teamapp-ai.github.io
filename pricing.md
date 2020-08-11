@@ -96,6 +96,6 @@ menu:
 ---
 {:.font-weight-bold}
 
-# strategy execution at pricing affordable for everyone
+# easy & affordable
 
-##### elevate culture, productivity and performance, and be ready for the next gen workforce
+##### team based pricing with unlimited users and tasks per team

@@ -1,6 +1,6 @@
 ---
-title: strategy execution
-slug: strategy-execution
+title: repeating tasks
+slug: repeating-tasks
 seo_title: strategy execution wins as bottom up engagement
 seo_description: Strategy execution has been top down and broken for years, it is
   time we fixed this. Strategy execution is easier to achieve as an interactive strategy

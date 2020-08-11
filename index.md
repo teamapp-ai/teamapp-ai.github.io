@@ -1,11 +1,9 @@
 ---
 title: home
 layout: homepage-new
-hero_intro: "{:.font-weight-bold}\n\n# strategy execution and daily work, in one app\n\n#####
-  an intuitive SaaS app solving the problem of urgent overtaking important and how
-  to make strategy execution successful\n\n{:.mt-4 .mb-0}  \n<a href=\"#explainervideo\"
-  class=\"introVid btn btn-white rounded-pill\" data-aos=\"fade-left\" data-aos-delay=\"500\">how
-  it works</a>"
+hero_intro: "<div class=\"h3\">a beautifully simple app for</div>\n\n{:.mt-4 .mb-0} \n# repeating tasks\n\n#####
+  for one team or across multiple teams \n\n{:.mt-4 .mb-0 .h1} \n one-off tasks \n\n{:.h5} \n across multiple teams \n\n{:.mt-5 .mb-0}  \n<a href=\"/repeating-tasks\"
+  class=\"btn btn-white rounded-pill\" data-aos=\"fade-left\" data-aos-delay=\"500\">learn more</a>"
 hero_image: "/uploads/tower-hero.svg"
 intro_text: |-
   {:.font-weight-bold}

@@ -12,16 +12,23 @@
 	.nav-link {
 		text-transform: lowercase;
 		color: $body-color;
+	    border-radius: 30px;
+	    display: inline-block;
 	}
 	.nav-item.active .nav-link,
-	.nav-link.active,
+	.nav-link.active {
+		color: $white;
+		background: $blue;
+	    color: $white;
+	    padding: $btn-padding-y $btn-padding-x * .75;
+	}
 	.nav-link:hover {
 		color: $link-color;
 	}
 }
 .navbar-brand img {
-  max-width: 165px;
-  width:165px;
+  max-width: 130px;
+  width: 130px;
 }
 #navbarHeaderCollapse {
 	position: relative;
@@ -48,7 +55,7 @@
 		}
 		.link-app {
 			margin-right: -3em;
-	    	padding-left: 1em;
+	    	padding-left: 4em;
 		}
 	}
 
@@ -87,18 +94,8 @@
 }
 @include media-breakpoint-up(lg) {
 	
-	.nav-item {
-		// padding-left: $navbar-nav-item-padding-x;
-		// padding-right: $navbar-nav-item-padding-x;
-
-		&:first-child {
-			padding-left: 0;
-		}
-		&:last-child {
-			padding-right: 0;
-		}
-	}
 	.c-header {
+
 		.navbar-brand {
 			flex: 1;
 		}
@@ -127,6 +124,26 @@
 				&:before {
 					width: 100%;
 				}
+			}
+		}
+
+		.nav-item {
+			padding-left: $navbar-nav-item-padding-x;
+			padding-right: $navbar-nav-item-padding-x;
+
+			&:first-child {
+				padding-left: 0;
+			}
+			&:last-child {
+				padding-right: 0;
+			}
+
+		}
+		.nav-item.active .nav-link,
+		.nav-link.active {
+
+			&:before {
+				display: none;
 			}
 		}
 	}

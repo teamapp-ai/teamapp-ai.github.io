@@ -14,7 +14,7 @@ $hero-banner-section-left-padding-y: 9.25rem;
 }
 @include media-breakpoint-up(lg) {
 	.c-hero-banner {
-		background: linear-gradient(100deg, lighten($primary, 5%) 46%, $primary 46%);
+		// background: linear-gradient(100deg, lighten($primary, 5%) 46%, $primary 46%);
 
 		&__left {
 			padding-top: $hero-banner-section-left-padding-y;
