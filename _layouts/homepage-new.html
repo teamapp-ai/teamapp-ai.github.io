@@ -10,13 +10,13 @@ layout: default
 
       <section class="bg-primary text-white c-hero-banner">
         <div class="container">
-          <div class="row">
-            <div class="col-lg-5 c-hero-banner__left">
+          <div class="row align-items-center">
+            <div class="col-lg-6 c-hero-banner__left">
               
               {{ page.hero_intro  | markdownify }}
 
             </div>
-            <div class="col-lg-7 d-none d-lg-block c-hero-banner__right">
+            <div class="col-lg-6 d-none d-lg-block py-4">
               <img src="{{ page.hero_image | relative_url }}" alt="{{ post.title }}">
             </div>
           </div>

@@ -1,10 +1,10 @@
 ---
 title: home
 layout: homepage-new
-hero_intro: "<div class=\"h3\">a beautifully simple app for</div>\n\n{:.mt-4 .mb-0} \n# repeating tasks\n\n#####
-  for one team or across multiple teams \n\n{:.mt-4 .mb-0 .h1} \n one-off tasks \n\n{:.h5} \n across multiple teams \n\n{:.mt-5 .mb-0}  \n<a href=\"/repeating-tasks\"
+hero_intro: "<div class=\"h3 font-weight-light\">a beautifully simple app for</div>\n\n{:.mt-4 .mb-0} \n# repeating tasks\n\n{:.font-weight-light .font-italic}\n#####
+  for one team or across multiple teams \n\n{:.mt-4 .mb-0 .h1} \n one-off tasks \n\n{:.h5  .font-weight-light .font-italic} \n across multiple teams \n\n{:.mt-5 .mb-0}  \n<a href=\"/repeating-tasks\"
   class=\"btn btn-white rounded-pill\" data-aos=\"fade-left\" data-aos-delay=\"500\">learn more</a>"
-hero_image: "/uploads/tower-hero.svg"
+hero_image: "/uploads/computer-hero.png"
 intro_text: |-
   {:.font-weight-bold}
 

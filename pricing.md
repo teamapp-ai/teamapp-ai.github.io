@@ -98,4 +98,4 @@ menu:
 
 # easy & affordable
 
-##### team based pricing with unlimited users and tasks per team
+<h5 class="font-weight-light">team based pricing with unlimited users and tasks per team</h5>
