@@ -159,8 +159,20 @@
 	}
 }
 @include media-breakpoint-up(xl) {
-	.nav-item {
-		padding-left: $navbar-nav-item-padding-x;
-		padding-right: $navbar-nav-item-padding-x;
+
+	.c-header {
+	
+		.nav-item {
+			padding-left: $navbar-nav-item-padding-x;
+			padding-right: $navbar-nav-item-padding-x;
+		}
+	}
+
+	.c-footer {
+	
+		.nav-item {
+			padding-left: 0.5em;
+			padding-right: 0.5em;
+		}
 	}
 }
