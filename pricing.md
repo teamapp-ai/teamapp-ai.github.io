@@ -19,65 +19,54 @@ faqs:
     Deactivated teams automatically credit against future teams you activate on the #team.
 
     You can manage more than one organization under the same account, with different billing and payment methods per organization. You can run more than one brand per organization.
-- question: What payment methods do you accept?
+- question: What payment methods do you accept and how do I access past invoices and
+    billing history? ?
   answer: |-
     We accept all major credit and debit cards, including American Express, Visa, Mastercard and Diners Club.
 
-    Payments are securely processed through the reputable Stripe payment gateway.
+    Payments are securely processed through the reputable Stripe payment gateway. Our billing engine runs on the secure Chargebee platform, which provides you with a client portal to access your subscription status, payment methods, billing information, payment history and invoices.
 - question: How do we access billing and past invoices?
   answer: Our billing engine runs on the secure Chargebee platform, which provides
     you with a private client portal to access your subscription status, payment methods,
     billing information, payment history and invoices.
-- question: Do you offer implementation support?
-  answer: |-
-    You do not need any technical skills to configure and deploy #stratapp.
-
-    It is also easy to deploy specific pages of the app, right down to individual users, thereby making your rollout progressive and hopefully eliminating the need for end user training.
-
-    Most clients are up and running within 2 cups of tea or coffee, a far cry from the weeks or months it usually takes to deploy and achieve time-to-value on high value software.
-
-    We offer the following implementation support:
-
-    * Getting Started - step by step article on our knowledge base
-    * In-App Help Hints - for a quick explanation of key pages
-    * Knowledge Base - searchable articles
-    * In-App Canny Boards - connecting end users directly with our product team, including your ability to ask questions, vote on new feature ideas and view features that have been added to our overall roadmap
-    * Support Tickets - emailing support when required
-
-    We are also building up a network of consultants who can assist clients with getting started on #stratapp.
+- question: What languages can I use to publish tasks to teams?
+  answer: 'Most languages are supported, including the search and log features within
+    #team. Navigation menus are minimal and in English.'
+- question: 'As a small business, how should I get started with #team? '
+  answer: "You may like to start with just 3 teams. 1 team that includes everyone.
+    1 team for customer facing roles. 1 team for administration and finance. First
+    start with the key daily/ weekly/ fortnightly/ monthly recurring functions of
+    each of these 3 teams. Keep it simple, then add more content as the teams get
+    comfortable. \n\nGo live within a couple of hours."
+- question: 'How should we implement #team across 2,000 teams/ sites/ stores?  '
+  answer: "First think about how to make this a game changer for your business - whether
+    that's elevating performance, being more agile or doing more with less. \n\nDon't
+    get bogged down upfront on what systems this will replace, as you will learn a
+    lot more about that as you go and this exploratory journey of step-change innovation
+    will only cost a few hundred dollars, not $100,000.\n\nStart with 10-12 teams
+    under 2 good managers, 5-6 teams each. Run a 3 week trial, experimenting with
+    the content and listening to feedback at all levels. Take 5-7 raw authentic quick
+    iPhone video interviews with staff, team leaders and managers - as these will
+    be invaluable later for communicating to all leaders and managers. Evaluate the
+    trial, update the content then roll out progressively one state or country at
+    a time."
 - question: Is our data safe?
   answer: |-
     Yes! We use the latest in encryption and authentication technology.
 
     Data is encoded in each organization, only available to that organization and its users. Data hosting is with Linode, which we found to provide the fastest end user experience.
-- question: 'What happens when I stop using #stratapp?'
-  answer: 'No problem, there are no termination fees or contract terms beyond your
-    chosen billing cycle. '
-- question: 'What is your future roadmap for #stratapp?'
-  answer: |-
-    We are experienced SaaS founders, backed by investors who are market leaders.
-
-    \#stratapp is the world's first SaaS app to achieve genuine alignment and engagement, within a strategic context.
-
-    \#stratapp is currently 10-apps-in-1, at a compelling price point.
-
-    We have an exciting product roadmap, that we believe will reshape the global B2B SaaS landscape.
-
-    Although we cannot share details publicly, you have probably already concluded our roadmap comprises:
-
-    * creating a connected workspace, bringing together leading tech in the B2B SaaS ecosystem
-    * streamlining how to execute both strategic and day to day work
-    * creating org-wide experiences, that don't require end user training
-    * maintaining compelling pricing, with no lock-in contracts
-    * applying best practices in strategy, management, human capital and tech, whilst further innovating several aspects with new IP
-    * adding AI in an ethical way that adds value and builds trust with all stakeholders internally (owners, directors, executives, managers and employees) and externally (customers, partners, contractors and suppliers)
-    * innovating in a collaborative space, together with those stakeholders
-    * eliminating:
-      * unnecessary integrations and expense
-      * single-use apps
-      * sending employees to multiple apps
-      * complicated user experiences
-      * disruption that adds little or no value
+- question: "​For how long is past data accessible? "
+  answer: "At this time you can access all past data on active and inactive teams.
+    So that our data costs don't blowout, on a future release we will change this
+    to 3 years where 80% of teams are active, otherwise 1 year. \n\nBefore making
+    that change we will communicate to all clients and of course we will put in place
+    sufficient admin user notifications to make this threshold easy to manage on an
+    ongoing basis."
+- question: 'What happens when I stop using #team?'
+  answer: No problem, there are no termination fees. Before deactivating your account
+    you may like to download your data from the Management Console's results and logs
+    pages. On future releases we will be creating APIs for you to link your task app
+    data to BI/data analytics tools.
 seo_title: strategy execution at pricing affordable for everyone
 seo_description: Strategy execution at pricing affordable to everyone, so you can
   elevate culture, productivity and performance, and be ready for the next gen workforce.
