@@ -7,7 +7,7 @@ seo_description: "#team is a task app for repeating tasks and one off tasks acro
 layout: register-free-trial
 
 ---
-# 15 day free trial
+# 21 day free trial
 
 {:.text-white}
 
