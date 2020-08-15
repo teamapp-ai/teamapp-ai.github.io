@@ -1,15 +1,15 @@
 ---
 title: features
 layout: features
-seo_title: strategy execution features that achieve time to value in days
-seo_description: Strategy execution delivered in a seamless connected workspace to
-  save time, remove silos, eliminate internal email and engage everyone on what really
-  matters.
+seo_title: task app features for repeating and one off tasks across multiple teams
+seo_description: "#team's task app features for repeating and one off tasks across
+  multiple teams."
 hero_image: ''
 date: 
-feature_image: "/uploads/feature image - features page-1.JPG"
+feature_image: ''
 slug: ''
 alt_text: strategy execution features for time to value in days
+icon: ''
 menu:
   navigation:
     identifier: _features
@@ -18,6 +18,6 @@ menu:
 ---
 {:.font-weight-bold}
 
-# strategy execution features that achieve time to value in days
+# task management across multiple teams made easy 
 
-##### strategy execution delivered in a seamless connected workspace to save time, remove silos, eliminate internal email and engage everyone on what really matters
+##### throw away checklists and spreadsheets - be up and running in 1 day on a beautifully simple app that requires no end user training
