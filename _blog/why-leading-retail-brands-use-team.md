@@ -12,7 +12,7 @@ seo_title: 'why leading retail brands use #team'
 seo_description: 'Leading retail brands use #team to manage repeating tasks and one
   off tasks across all of their stores. Including multiple brands, time zones and
   countries.'
-feature_image: ''
+feature_image: "/uploads/retail.jpg"
 
 ---
 Leading retail brands use #team to manage repeating tasks and one off tasks across all of their stores. Including multiple brands, time zones and countries.
