@@ -46,12 +46,6 @@ page_sections:
   media:
     image: "/uploads/time-on-email-without-heading.png"
     alt_text: strategy execution gets lost in noise
-- template: video-element
-  block: video-element
-  youtube_id: DlQAX7U0MHs
-  caption: ''
-  video: ''
-  vimeo_id: ''
 menu:
   navigation:
     identifier: _strategy execution
