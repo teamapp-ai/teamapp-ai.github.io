@@ -9,7 +9,6 @@ seo_description: "#team has a unique team shared user experience to save time an
 feature_image: ''
 hero_image: ''
 icon: ''
-published: false
 
 ---
 insert feature explanation here
