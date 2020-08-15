@@ -10,11 +10,15 @@ faqs:
     live within a couple of hours!"
 - question: How does annual billing work?  What is the currency and contract term?
   answer: |-
-    You can choose from monthly or annual billing, payable in advance.  Annual pricing is discounted 22-29% on monthly pricing.
+    You can choose from monthly or annual billing, payable in advance.  Annual pricing is discounted 17-22% on monthly pricing.
 
     Pricing shown above is US$.
 
-    There is no contract term beyond the billing cycle.  We want you to continue to use #stratapp because you love it, not because we locked you into a 3 or 5 year contract.
+    There is no contract term beyond the billing cycle. On annual billing, your active teams are billed annually in advance. As you activate more teams in #team, these are billed pro-rata for the balance of the year, so you can easily manage all of your teams to one annual billing cycle.
+
+    Deactivated teams automatically credit against future teams you activate on the #team.
+
+    You can manage more than one organization under the same account, with different billing and payment methods per organization. You can run more than one brand per organization.
 - question: What payment methods do you accept?
   answer: |-
     We accept all major credit and debit cards, including American Express, Visa, Mastercard and Diners Club.
@@ -43,11 +47,9 @@ faqs:
     We are also building up a network of consultants who can assist clients with getting started on #stratapp.
 - question: Is our data safe?
   answer: |-
-    Yes, #stratapp uses the latest in data encryption and authentication technology.
+    Yes! We use the latest in encryption and authentication technology.
 
-    \#stratapp is built on scalable micro-services on Microsoft Service Fabric, hosted on Microsoft Azure.
-
-    \#stratapp supports SAML/SSO.
+    Data is encoded in each organization, only available to that organization and its users. Data hosting is with Linode, which we found to provide the fastest end user experience.
 - question: 'What happens when I stop using #stratapp?'
   answer: 'No problem, there are no termination fees or contract terms beyond your
     chosen billing cycle. '
