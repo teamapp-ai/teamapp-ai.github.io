@@ -1,6 +1,6 @@
 ---
 title: team shared user experience
-date: 
+date: 2020-08-15 07:38:49 +0000
 slug: team shared user experience
 seo_title: team shared user experience to save time and encourage teamwork
 seo_description: "#team has a unique team shared user experience to save time and
