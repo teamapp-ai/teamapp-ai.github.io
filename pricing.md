@@ -98,6 +98,6 @@ menu:
 ---
 {:.font-weight-bold}
 
-# testing the ability to edit this new site via forestry, 12:00, 13 Aug - wayne added this 8:22pm
+# easy & affordable team based pricing
 
-##### elevate culture, productivity and performance, and be ready for the next gen workforce
+##### team based pricing with unlimited users and changes per team
