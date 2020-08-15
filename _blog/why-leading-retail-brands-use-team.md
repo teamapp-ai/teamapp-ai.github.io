@@ -1,6 +1,7 @@
 ---
 author: _people/ash-richardson.md
-category: []
+category:
+- "#videos"
 date: 2020-08-15 23:02:59 +0000
 layout: blog
 title: 'why leading retail brands use #team'
