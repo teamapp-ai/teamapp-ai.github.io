@@ -24,7 +24,7 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Right
-  headline: "<strong>management app - free for everyone</strong>"
+  headline: "<strong>management app - free for team leaders, managers and executives</strong>"
   content: |-
     xxxxx
 
@@ -39,12 +39,10 @@ page_sections:
   block: feature-1
   media_alignment: Left
   content: |-
-    When email was first invented it consumed about 5% of our time and a reasonable response time was 7 days.
-
-    Email and messaging apps are now a real time medium, consuming 40% of our time, with another 45-55% lost to meetings, routine tasks and being reactive.
-
-    Executives, managers and team leaders are fast losing the headspace to think deeply, plan carefully, experiment freely and flawlessly execute on strategy execution, new capabilities and change.
-  headline: "<strong>strategy execution gets lost in noise &amp; being busy</strong>"
+    xxx
+    xxx
+    xxx
+  headline: "<strong>team app - unique design that encourages teamwork</strong>"
   media:
     image: "/uploads/time-on-email-without-heading.png"
     alt_text: strategy execution gets lost in noise
