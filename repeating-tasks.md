@@ -1,9 +1,11 @@
 ---
 title: repeating tasks
 slug: repeating-tasks
-seo_title: task app for repeating tasks for one team or multiple teams
+seo_title: task app for repeating tasks and one off tasks for one team or multiple
+  teams
 seo_description: "#team is a task app for repeating tasks and one off tasks across
-  multiple teams.  Every team has repeating tasks."
+  multiple teams.  Every team in your organization has repeating tasks.  Make sure
+  repeating tasks get done."
 feature_image: "/uploads/strategy_execution.png"
 page_sections:
 - template: content-feature
@@ -11,9 +13,9 @@ page_sections:
   media_alignment: Right
   headline: ''
   content: |-
-    # strategy execution wins with bottom up engagement
+    # every team in your business has repeating tasks
 
-    ##### strategy execution has been top down and broken for years, it is time we fixed this
+    ##### consistency on repeating tasks elevates employee and customer experience
 
     [start free trial](/free-trial){: .btn .btn-primary}
   media:
@@ -22,14 +24,14 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Right
-  headline: "<strong>strategy execution fails as a top down push</strong>"
+  headline: "<strong>management app - free for everyone</strong>"
   content: |-
-    Traditionally the board or CEO would formulate a strategy, then communicate it in two static documents - one describing the strategy, the other setting targets. Some companies do this as annual offsite events or roadshows. Some hire consultants. Some invite middle management. Some invite the whole company.
+    xxxxx
 
-    Regardless of the approach, two things fail:
-
-    1. **urgent overtakes important** - people don’t have the skill, will or time to focus on strategy execution, as day to day priorities consume everyone
-    2. **fast out of date** - whilst the strategy sounded great, within a few weeks or months it no longer matches what the organization needs to focus on
+    xxxxxx
+    1. xxx
+    2. xxx
+    3. xxx
   media:
     image: "/uploads/top-down-without-heading.png"
     alt_text: strategy execution as top down
