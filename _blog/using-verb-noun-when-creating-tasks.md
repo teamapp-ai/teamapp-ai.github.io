@@ -1,6 +1,7 @@
 ---
 author: _people/ash-richardson.md
-category: []
+category:
+- "#tips"
 date: 2020-08-15 07:38:49 +0000
 layout: blog
 title: we recommend verb-noun wording construct when creating tasks
