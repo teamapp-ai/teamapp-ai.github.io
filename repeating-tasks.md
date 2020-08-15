@@ -13,9 +13,9 @@ page_sections:
   media_alignment: Right
   headline: ''
   content: |-
-    # every team in your business has repeating tasks
+    # every team has repeating tasks
 
-    ##### consistency on repeating tasks elevates employee and customer experience
+    ##### consistency on repeating tasks elevates customer and employee experience
 
     [start free trial](/free-trial){: .btn .btn-primary}
   media:
