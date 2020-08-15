@@ -80,7 +80,6 @@ menu:
   navigation:
     identifier: _pricing
     weight: 2
-published: false
 
 ---
 {:.font-weight-bold}
