@@ -19,8 +19,7 @@ faqs:
     Deactivated teams automatically credit against future teams you activate on the #team.
 
     You can manage more than one organization under the same account, with different billing and payment methods per organization. You can run more than one brand per organization.
-- question: What payment methods do you accept and how do I access past invoices and
-    billing history? ?
+- question: What payment methods do you accept?
   answer: |-
     We accept all major credit and debit cards, including American Express, Visa, Mastercard and Diners Club.
 
