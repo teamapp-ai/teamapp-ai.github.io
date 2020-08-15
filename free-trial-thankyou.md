@@ -8,7 +8,7 @@ layout: register-free-trial-thankyou
 permalink: "/free-trial/thank-you"
 
 ---
-# 15 day free trial
+# 21 day free trial
 
 {:.text-white}
 
