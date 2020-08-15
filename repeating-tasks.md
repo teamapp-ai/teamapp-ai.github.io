@@ -93,9 +93,3 @@ xxxx
 ## **millennials - 75% of employees by 2025**
 
 x
-
-## **fashion retail - example**
-
-xxxxx
-
-<iframe width="950" height="535" src="https://www.youtube.com/embed/aNqYThIOyh0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
