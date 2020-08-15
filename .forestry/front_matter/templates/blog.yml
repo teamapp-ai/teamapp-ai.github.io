@@ -49,3 +49,5 @@ fields:
   label: layout
   hidden: true
   default: blog
+pages:
+- _blog/using-verb-noun-when-creating-tasks.md
