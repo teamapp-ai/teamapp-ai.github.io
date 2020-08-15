@@ -18,6 +18,6 @@ menu:
 ---
 {:.font-weight-bold}
 
-# task management across multiple teams made easy 
+# easily manage repeating and one-off tasks across multiple teams 
 
 ##### throw away checklists and spreadsheets - be up and running in 1 day on a beautifully simple app that requires no end user training
