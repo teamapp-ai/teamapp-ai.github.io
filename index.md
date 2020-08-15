@@ -1,25 +1,29 @@
 ---
 title: home
 layout: homepage-new
-hero_intro: "<div class=\"h3 font-weight-light\">a beautifully simple app for</div>\n\n{:.mt-4 .mb-0} \n# repeating tasks\n\n{:.font-weight-light .font-italic}\n#####
-  for one team or across multiple teams \n\n{:.mt-4 .mb-0 .h1} \n one-off tasks \n\n{:.h5  .font-weight-light .font-italic} \n across multiple teams \n\n{:.mt-5 .mb-0}  \n<a href=\"/repeating-tasks\"
-  class=\"btn btn-white rounded-pill\" data-aos=\"fade-left\" data-aos-delay=\"500\">learn more</a>"
+hero_intro: "<div class=\"h3 font-weight-light\">a beautifully simple app for</div>\n\n{:.mt-4
+  .mb-0} \n# repeating tasks\n\n{:.font-weight-light .font-italic}\n##### for one
+  team or across multiple teams \n\n{:.mt-4 .mb-0 .h1} \n one-off tasks \n\n{:.h5
+  \ .font-weight-light .font-italic} \n across multiple teams \n\n{:.mt-5 .mb-0}  \n<a
+  href=\"/repeating-tasks\" class=\"btn btn-white rounded-pill\" data-aos=\"fade-left\"
+  data-aos-delay=\"500\">learn more</a>"
 hero_image: "/uploads/computer-hero.png"
 intro_text: |-
   {:.font-weight-bold}
 
-  # book a CxO Event or Video Call
+  # x
 
-  ## open to CEOs, business owners and C-level executives <span>(limited availability)</span>
+  ## x <span>x</span>
+
   <a href="/events" target="_blank" class="btn btn-danger rounded-pill mt-3">Book an event</a>
 columns_text_1: |-
   {:.font-weight-bold}
 
-  ### fortnightly <a href="/events/cxos/">CxO Events</a> and fortnightly <a href="/events/consultants/">Consultant Events</a> - see the product, meet a co-founder and explore new ideas with other attendees
+  ### xxx <a href="/events/cxos/">xxx</a> xxxx <a href="/events/consultants/">xxx</a> xxxx
 columns_text_2: |-
-  Our <a href="/events/cxos/">CxO Events</a> are the best way to learn how to take your organization to the next level on this new way of thinking and working.  CxO Events also provide a great forum for networking and exploring new ideas and market trends.
+  xxxx
 
-  Our <a href="/events/consultants/">Consultant Events</a> zero in on how to grow your consulting practice by adding more value to clients and their employees: win more clients, on-sell more work per client and derisk each client's execution.
+  xxxx
 features:
 - icon: "/uploads/ico-articulate.svg"
   title: articulate
@@ -41,11 +45,10 @@ features:
   title: thrive
   text: free the talent of all generations to thrive on this new way of thinking and
     working
-seo_title: strategy execution SaaS app for every employee to engage on strategy and
-  daily work
-seo_description: Strategy execution SaaS app to seamlessly execute strategy and day
-  to day work in one place. Making strategy execution successful whilst solving urgent
-  overtaking important.
+seo_title: task app for repeating and one off tasks across multiple teams
+seo_description: "#team is a beautifully simple task app for managing repeating and
+  one off tasks across one team or multiple teams - including different time zones,
+  team types and brands."
 redirect_from:
 - "/events/"
 - "/tutorials/"
