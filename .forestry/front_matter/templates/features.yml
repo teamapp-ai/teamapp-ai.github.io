@@ -32,4 +32,5 @@ fields:
   label: Icon
   hidden: false
 pages:
+- _features/team-shared-user-experience.md
 - features.md
