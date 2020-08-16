@@ -66,13 +66,10 @@ faqs:
     you may like to download your data from the Management Console's results and logs
     pages. On future releases we will be creating APIs for you to link your task app
     data to BI/data analytics tools.
-seo_title: strategy execution at pricing affordable for everyone
-seo_description: Strategy execution at pricing affordable to everyone, so you can
-  elevate culture, productivity and performance, and be ready for the next gen workforce.
-quote: |-
-  #### "Our industry is going through massive change.  #stratapp is at the core of our response, connecting our talent across four countries, aligning all of us in real time."
-
-  ##### - Renato Domini, CEO Panorama Destination
+seo_title: easy & affordable team based pricing
+seo_description: "#team task app has easy & affordable team based pricing, with unlimited
+  users and changes per team."
+quote: "#### "
 feature_image: ''
 slug: ''
 menu:
