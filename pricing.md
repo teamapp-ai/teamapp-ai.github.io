@@ -2,6 +2,8 @@
 title: pricing
 layout: pricing
 faqs:
+- question: 'What devices and browsers work for #team?'
+  answer: ''
 - question: How long is the free trial?
   answer: |-
     We offer a 21 day free trial.
