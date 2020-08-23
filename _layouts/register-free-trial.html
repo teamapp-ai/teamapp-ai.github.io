@@ -19,7 +19,7 @@ layout: default
         <div class="container">
 
 
-            <form id="free-trial" action="https://api.stratapp.ai/api/register/link" method='POST' onSubmit='' accept-charset='UTF-8'>
+            <form id="free-trial" action="https://mgt.teamapp.ai/v3/subscribe/mailchimp" method='POST' onSubmit='' accept-charset='UTF-8'>
                          
             <div class="row mb-2 justify-content-center">
 
@@ -42,23 +42,21 @@ layout: default
               <script>
               $("#free-trial").submit(function(event){
                 event.preventDefault(); //prevent default action 
-                var post_url = "https://api.stratapp.ai/api/register/link"; //get form action url
+                var post_url = "https://mgt.teamapp.ai/v3/subscribe/mailchimp"; //get form action url
                 var request_method = "POST"; //get form GET/POST method
                 var form_data = $(this).serialize(); //Encode form elements for submission
-                //[{"key":"Authorization","value":"Api-Key ZiEQaPjOe06P49Ld4r+VTQ==","description":"","type":"text","enabled":true}]
                 $.ajax({
                   url : post_url,
                   type: request_method,
                   processData:false,
-                  data : '"' + $('#email').val() + '"',
+                  data : '{"type": "profile","data": {"email": "'+$('#email').val()+'" }}',
                   headers: {
-                    'Authorization':'Api-Key ZiEQaPjOe06P49Ld4r+VTQ==',
                     'Content-Type' : 'application/json'
-                    // more as you need
+                   
                   }
                 }).done(function(response){ //
                   console.log("response",response);
-                  window.location.href = "/free-trial/thank-you";
+                  //window.location.href = "/free-trial/thank-you";
                 //  $("#response").text("thank you, please check your email - if you don’t receive it, please check your spam folder");
                 });
               });
