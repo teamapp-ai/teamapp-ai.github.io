@@ -3,11 +3,16 @@ title: pricing
 layout: pricing
 faqs:
 - question: How long is the free trial?
-  answer: "We offer a 21 day free trial.\n\n21 days is plenty of time to get a feel
-    for #team and your content organized.\n\nThere are no set-up fees. No consultants,
-    integration or hardware costs.\n\nNo end user training costs. \n\nProgressively
-    roll out #team, only paying a low SaaS fee either per month or annually.\n\nGo
-    live within a couple of hours!"
+  answer: |-
+    We offer a 21 day free trial.
+
+    21 days is plenty of time to get a feel for #team and your content organized.
+
+    There are no set-up fees. No consultants, integration or hardware costs.
+
+    No end user training costs.
+
+    Go live within 2 cups of coffee!
 - question: How does annual billing work?  What is the currency and contract term?
   answer: |-
     You can choose from monthly or annual billing, payable in advance.  Annual pricing is discounted 17-22% on monthly pricing.
