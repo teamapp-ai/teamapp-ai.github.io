@@ -26,12 +26,13 @@ page_sections:
   media_alignment: Right
   headline: "<strong>management app - free for team leaders, managers and executives</strong>"
   content: |-
-    xxxxx
+    The Management App is free for an unlimited number of managers, giving your organization exactly what they need to manage tasks across teams:
 
-    xxxxxx
-    1. xxx
-    2. xxx
-    3. xxx
+    1. Dashboards - what's been done and what's been missed
+    2. Leaderboard - emerging and best performing teams
+    3. Photo Gallery - live feed of tasks that require photos
+    4. Logs - drill down with powerful filters to see exactly what you're looking for
+    5. Content - rapidly deploy tasks across one or multiple teams
   media:
     image: "/uploads/2.png"
     alt_text: task app with dashboards for managers
