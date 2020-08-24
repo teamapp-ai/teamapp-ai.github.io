@@ -57,7 +57,7 @@ stratapp_features:
 - feature_title: culture elevation
   feature_text: |-
     * build high performing teams with transparency and trust
-    * encourage teamwork with the unique team-shared user experience
+    * encourage teamwork with a unique team-shared user experience
     * improve and sustain both customer and employee experience
   icon: "/uploads/icon-handshake.svg"
 - feature_title: next gen ready
@@ -73,8 +73,8 @@ stratapp_features:
   icon: "/uploads/icon-chart-person.svg"
 - feature_title: business performance
   feature_text: |-
-    * measure what matters, objectively, with real time insights and data
-    * manage by exception, saving everyone time
+    * measure what matters, objectively, with real time data
+    * manage by exception to save everyone time
     * make the business easier to operate / sell at a higher price
   icon: "/uploads/icon-cog-belt.svg"
 slug: ''
