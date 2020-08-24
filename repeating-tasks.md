@@ -33,8 +33,8 @@ page_sections:
     2. xxx
     3. xxx
   media:
-    image: "/uploads/top-down-without-heading.png"
-    alt_text: strategy execution as top down
+    image: "/uploads/2.png"
+    alt_text: task app with dashboards for managers
 - template: content-feature
   block: feature-1
   media_alignment: Left
@@ -44,8 +44,8 @@ page_sections:
     xxx
   headline: "<strong>team app - unique design that encourages teamwork</strong>"
   media:
-    image: "/uploads/time-on-email-without-heading.png"
-    alt_text: strategy execution gets lost in noise
+    image: "/uploads/3.png"
+    alt_text: task app with burndown chart for teams
 menu:
   navigation:
     identifier: _strategy execution
