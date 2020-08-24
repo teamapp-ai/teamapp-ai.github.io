@@ -15,7 +15,7 @@ page_sections:
   content: |-
     # every team has repeating tasks
 
-    ##### consistency on repeating tasks elevates both customer and employee experience
+    ##### consistency on repeating tasks performance, elevates both customer and employee experience
 
     [start free trial](/free-trial){: .btn .btn-primary}
   media:
