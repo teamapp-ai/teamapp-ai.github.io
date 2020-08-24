@@ -140,7 +140,7 @@ But what about repeating tasks across one or multiple teams.  The things that oc
 
 This is where #team excels.  Multiple teams executing consistently and with more visibility than you've ever hard before.
 
-You can't manage what you don't measure. #team produces live and actionable intelligence  in a meaningful format for all levels of managers.
+You can't manage what you don't measure. #team produces live and actionable intelligence  in a meaningful format for all levels.
 
 ## **one-off tasks**
 
