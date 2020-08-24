@@ -152,7 +152,7 @@ With #team, you can assign the right teams to the right tasks in seconds, then i
 
 Or you can go one better. Set yourself a custom alert so you can proactively manage by exception, for example: "Alert me if more than 10% of my teams have not completed the initiative by 3:30pm Thursday."
 
-## **culture & cadence | people matter**
+## **culture & cadence**
 
 Use #team to create the rhythm and cadence you are aiming to achieve across your teams.
 
