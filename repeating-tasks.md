@@ -30,7 +30,7 @@ page_sections:
 
     1. Dashboards - what's been done and what's been missed
     2. Leaderboard - emerging and best performing teams
-    3. Photo Gallery - live feed of tasks that require photos
+    3. Photo Gallery - live feed of task photos that can display on large monitors
     4. Logs - drill down with powerful filters to see exactly what you're looking for
     5. Content - rapidly deploy tasks across one or multiple teams
   media:
