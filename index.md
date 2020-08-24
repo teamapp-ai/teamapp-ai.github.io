@@ -2,9 +2,9 @@
 title: home
 layout: homepage-new
 hero_intro: "<div class=\"h3 font-weight-light\">a beautifully simple app for</div>\n\n{:.mt-4
-  .mb-0} \n# repeating tasks\n\n{:.font-weight-light}\n##### for one
+  .mb-0} \n# repeating tasks\n\n{:.font-weight-light .font-italic}\n##### for one
   team or across multiple teams \n\n{:.mt-4 .mb-0 .h1} \n one-off tasks \n\n{:.h5
-  \ .font-weight-light} \n across multiple teams \n\n{:.mt-5 .mb-0}  \n<a
+  \ .font-weight-light .font-italic} \n across multiple teams \n\n{:.mt-5 .mb-0}  \n<a
   href=\"/repeating-tasks\" class=\"btn btn-white rounded-pill\" data-aos=\"fade-left\"
   data-aos-delay=\"500\">learn more</a>"
 hero_image: "/uploads/computer-hero.png"
@@ -56,9 +56,9 @@ feature_image: ''
 stratapp_features:
 - feature_title: culture elevation
   feature_text: |-
-    * radical transparency and trust
-    * real-time alignment and collaboration
-    * genuine digital transformation and remote working
+    * transparency on performance builds trust
+    * encourage teamwork with the unique team-shared UX
+    * improve customer and employee experience
   icon: "/uploads/icon-handshake.svg"
 - feature_title: next gen ready
   feature_text: |-
