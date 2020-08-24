@@ -19,8 +19,8 @@ page_sections:
 
     [start free trial](/free-trial){: .btn .btn-primary}
   media:
-    image: "/uploads/hero_graphic_strategy_execution.png"
-    alt_text: strategy execution software app
+    image: "/uploads/6.png"
+    alt_text: task app for repeating tasks
 - template: content-feature
   block: feature-1
   media_alignment: Right
@@ -56,25 +56,71 @@ menu:
 
 ### office based work
 
-xxxx
+Offices typically have 30-50 repeating tasks per week:
+
+* opening and closing checklists
+* facilities, ITC and kitchen supplies
+* payroll and bookkeeping
+* team related tasks
+* customer related tasks
+* supplier/partner/contractor related tasks
 
 ### retail
 
-quick service restaurants
+Retail outlets typically have 20-30 repeating tasks per day:
 
-gyms & recreation centres
+* opening and closing checklists
+* visual merchandising layouts and promotions
+* end of shift reporting and handovers
+* staff rostering
 
-commercial kitchens
+### quick service restaurants
 
-facilities maintenance
+QSR outlets typically have 70-100 repeating tasks per day:
 
-aged & health care
+* opening and closing checklists
+* food safety and compliance
+* bathrooms and customer areas
+* customer bookings
+* visual merchandising layouts and promotions
+* end of shift reporting and handovers
+* staff rostering
+* food and beverage ordering
+* preparing for peak periods
+* reconciliations and banking
 
-hotel operations
+### gyms & recreation centres
 
-manufacturing
+* opening and closing checklists
+* safety, compliance and security
+* bathrooms, gym floor and specific rooms
+* sales enquiries and follow-up cadences
 
-distribution & warehousing
+### commercial kitchens
+
+* opening and closing checklists
+* food safety and compliance
+* equipment maintenance
+
+### facilities maintenance
+
+* x
+
+### aged & health care
+
+* x
+
+### hotel operations
+
+* x
+
+### manufacturing
+
+* x
+
+### distribution & warehousing
+
+* x
 
 ## **why is cadence important**
 
