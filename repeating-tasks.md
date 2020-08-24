@@ -158,7 +158,7 @@ Use #team to create the rhythm and cadence you are aiming to achieve across your
 
 When do you want certain things done? When do you want the team focused and not interrupted?
 
-People matter. Small things matter. Team morale and culture decline if things start to get missed or "forgotten". Its often said the 1%'s add up to be 100%.
+People matter. Small things matter. Team morale and culture decline if things start to get missed or "forgotten". 
 
 Regularly missing even routine things negatively impacts overall team culture and performance if left unchecked.
 
@@ -192,9 +192,11 @@ We are developing AI features to proactively assist clients in decision making a
 
 In the meantime, having a live photo gallery that can be quickly filtered by the tasks, teams and locations each manager is interested in, is significantly better than using email or having your cluster or area managers physically driving to physically inspect.
 
-## **millennials | y-gen**
+## **millennials**
 
-Millennials or Gen Y grew up in the internet age and apart from 'getting' the tech in less than 60 seconds, Gen Y team members and team leaders have a natural preference for transparency that makes collaboration and teamwork so much easier. Generation Z were born into a highly sophisticated media and computer environment and are even more tech savvy and expert than their Gen Y forerunners.
+Millennials (Gen Y) grew up in the internet age and apart from 'getting' the tech in less than 60 seconds, millennial team members and team leaders have a natural preference for transparency that makes collaboration and teamwork so much easier. 
+
+Gen Z were born into a highly sophisticated media and computer environment and are even more tech savvy and expert than their Gen Y forerunners.
 
 However they both share a culture of self sufficiency and the prevailing attitude we've experienced with #team is:
 
