@@ -1,6 +1,6 @@
 ---
 title: terms
-seo_title: "#stratapp Terms and Conditions"
+seo_title: "#team Terms and Conditions"
 seo_description: 'These Terms apply to all visitors, users and others who access or
   use the Service. '
 feature_image: ''
