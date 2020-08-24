@@ -91,12 +91,19 @@ QSR outlets typically have 70-100 repeating tasks per day:
 
 ### gyms & recreation centres
 
+Gyms typically have 35-50 repeating tasks per day:
+
 * opening and closing checklists
 * safety, compliance and security
 * bathrooms, gym floor and specific rooms
 * sales enquiries and follow-up cadences
+* social media and other marketing cadences
+* end of shift reporting and handovers
+* staff rostering and timetable/promotion updates
 
 ### commercial kitchens
+
+Commercial kitchens typically have 20-35 repeating tasks per day:
 
 * opening and closing checklists
 * food safety and compliance
@@ -122,14 +129,72 @@ QSR outlets typically have 70-100 repeating tasks per day:
 
 * x
 
-## **why is cadence important**
+## **recurring procedures, tasks & checklists | team app for simplifying communication**
 
-fxxx
+There are several excellent app options for collaboration and bespoke to-do lists or managing projects such as [Trello](https://trello.com/) and [Asana](https://asana.com/) or [Monday](https://monday.com/) and [Wrike](https://www.wrike.com/)**.**  
+  
+But what about non project related activities - these are things that occur in your business that you want to track daily/ weekly/ fortnightly/ monthly/ quarterly/ annually like checklists or activities that are important to you for maintaining standards and consistency.   
+  
+This is where #team excels - multiple teams all executing with more visibility than you've ever hard before.  
+  
+You cant manage what you cant measure. #team produces actionable intelligence on teams, locations and management performance in data formats that are easily exported.
 
-## **staff morale, development & retention**
+## **one-off initiatives | team app for rapid communications to multiple teams**
 
-xxxx
+Of course #team handles one-off initiatives. Imagine you want 300 of your teams to be aware of a marketing campaign and there is something that requires their action by 4pm Thursday.   
+  
+Whatever you do, don't send an email! You may receive 180 replies to your inbox, then you still have to manually figure out who has done what, who hasn't and who has a question.   
+  
+You can assign the right teams to the right initiatives in seconds with #team, then instantly see in real-time what teams are up to date with the plan by 4pm Thursday.   
+  
+Or you can go one better. Set yourself a custom alert so you can proactively manage by exception, for example: "Alert me if more than 10% of my teams have not completed the initiative by 3:30pm Thursday."   
+  
+If you receive clarifying questions back from teams, don’t send another group wide email to the 300 teams - there is already too much email and we still wont know who has opened it let alone actioned it! Instead, you can edit what you originally published to the teams within seconds and they will all see the update in #team.[View pricing](https://teamapp.ai/pricing/) of #team.
 
-## **millennials - 75% of employees by 2025**
+## **culture & cadence | people matter | set your rhythm and cadence**
 
-x
+Use #team communication app to create the rhythm and cadence you are aiming to achieve across your teams.   
+  
+When do you want certain things done? When do you want the team focused and not interrupted?   
+  
+People matter. Small things matter. Team morale and culture decline if things start to get missed or "forgotten". Its often said the 1%'s add up to be 100%.  
+  
+Regularly missing even routine things negatively impacts overall team culture and performance if left unchecked.
+
+With #team, you don't need to be there in person to see what is happening and what isn't.
+
+## **learning & development | induction | training**
+
+\#team communication app for teams changes the game here on three fronts.
+
+1\. You can deploy L&D content to precisely the point when employees really need it - for the things they are about to do right now. You can even set that L&D content to must-be-viewed before certain initiatives can be done.   
+  
+2\. You can objectively allocate your L&D spend based on actual live data. For example: What is getting done? What is being missed? What is the quality? How does this compare across team types, locations and managers?   
+  
+3\. It is much easier and more cost effective to train someone into a role when their whole day/ week/ fortnight/ month of how-to information is already laid out in front of them. People can join the team and immediately contribute to what needs to be done next.
+
+## **business intelligence | learn from data | team communications app with BI**
+
+Let's consider 50 teams that average 20 activities that you want to measure per day across customer service, operations, OH&S, administration and finance.
+
+That equals **1,000 activities per day, 365,000 per year and in 3 years that's a huge 1.1 million** activities that you have said are important for the business and your teams to focus on.
+
+But that's just the beginning. Can you imagine the power of overlaying these performance insights against data from sales, customer experience, resourcing and employee satisfaction?   
+  
+Not only can you run the business better with actionable intelligence, you can elevate the performance of every team whilst de-risking the business and increasing its value. [View features](https://teamapp.ai/features/) of #team.
+
+## **artificial intelligence | make life easier | team communications app with AI**
+
+You can tell from our choice of domain name that we plan to focus on AI. There are many ways AI can make our clients' lives easier.   
+  
+We are developing AI features to proactively assist clients in decision making and elevating the team performance.   
+  
+In the meantime, having a live photo gallery that can be quickly filtered by the tasks, teams and locations each manager is interested in, is significantly better than using email or having your cluster or area managers physically driving to physically inspect. [View product roadmap](https://teamapp.ai/taskout-roadmap/) of #team.
+
+## **millenials, Gen Z | team communications app for our next generation workforce**
+
+Millennials or Generation Y grew up in the internet age and apart from 'getting' the tech in less than 60 seconds, gen y team members and team leaders have a natural preference for transparency that makes collaboration and teamwork so much easier. Generation Z were born into a highly sophisticated media and computer environment and are even more tech savvy and expert than their Gen Y forerunners.
+
+However they both share a culture of self sufficiency - yet the prevailing attitude we've experienced with #team is
+
+"_I don't mind visibility of my performance. I just want the expectations on me to be clear. #team does that for me, and the whole team and then I can just get on with my job"._
