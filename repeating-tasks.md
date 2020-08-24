@@ -40,9 +40,9 @@ page_sections:
   block: feature-1
   media_alignment: Left
   content: |-
-    xxx
-    xxx
-    xxx
+    #team is the world's first task app designed around a team-shared user experience, what encourages teamwork and is faster for teams.
+
+    Each team can see a live burndown chart of tasks completed versus remaining and time. Teams can compare their performance with other teams you nominate. For example, I want this team to see their performance relative to all teams in Chicago.
   headline: "<strong>team app - unique design that encourages teamwork</strong>"
   media:
     image: "/uploads/3.png"
