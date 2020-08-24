@@ -56,18 +56,18 @@ feature_image: ''
 stratapp_features:
 - feature_title: culture elevation
   feature_text: |-
-    * build high performing teams with transparency and clarity
+    * build high performing teams with transparency and trust
     * encourage teamwork with the unique team-shared user experience
-    * improve and sustain customer and employee experience
+    * improve and sustain both customer and employee experience
   icon: "/uploads/icon-handshake.svg"
 - feature_title: next gen ready
   feature_text: |-
     * by 2025 more than 75% of employees are y-gen / millennials
-    * y-gen thrive on digital collaboration and transparency, and are happy to be accountable if we make the expectations on them clear
+    * y-gen thrive on digital collaboration and transparency, and they are happy to be accountable if we make the expectations on them clear
   icon: "/uploads/icon-thumbsup.svg"
 - feature_title: employee productivity
   feature_text: |-
-    * increase productivity by 15-30% whilst reducing stress
+    * increase productivity by 15-30%, whilst reducing stress
     * create healthy competition across individuals and teams
     * prevent lazy team members from demotivating high performers
   icon: "/uploads/icon-chart-person.svg"
