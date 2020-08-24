@@ -7,7 +7,7 @@ feature_image: ''
 slug: ''
 
 ---
-Please read these Terms and Conditions ("Terms", "Terms and Conditions") carefully before using the [https://stratapp.ai](https://stratapp.ai) website and the #stratapp applications (the "Service") operated by #stratapp Tradings Pty Ltd ("#stratapp", "us", "we", or "our").
+Please read these Terms and Conditions ("Terms", "Terms and Conditions") carefully before using the https://teamappsaas.com website and the #team applications (the "Service") operated by #team Pty Ltd ("#team", "us", "we", or "our").
 
 Your access to and use of the Service is conditioned on your acceptance of and compliance with these Terms.
 
@@ -19,27 +19,27 @@ By accessing or using the Service, you agree to be bound by these Terms. If you 
 
 Some parts of the Service are billed on a subscription basis ("Subscription(s)"). You will be billed in advance on a recurring and periodic basis ("Billing Cycle"). Billing cycles are set either on a monthly or annual basis, depending on the type of subscription plan you select when purchasing a Subscription.
 
-At the end of each Billing Cycle, your Subscription will automatically renew under the exact same conditions unless you cancel it or #stratapp cancels it. You may cancel your Subscription renewal either through your online account management page or by contacting the #stratapp customer support team.
+At the end of each Billing Cycle, your Subscription will automatically renew under the exact same conditions unless you cancel it or #team cancels it. You may cancel your Subscription renewal either through your online account management page or by contacting the #team customer support team.
 
-A valid payment method, including credit card, is required to process the payment for your Subscription. You shall provide #stratapp with accurate and complete billing information including full name, address, state, zip code, telephone number, and a valid payment method information. By submitting such payment information, you automatically authorize #stratapp to charge all Subscription fees incurred through your account to any such payment instruments.
+A valid payment method, including credit card, is required to process the payment for your Subscription. You shall provide #team with accurate and complete billing information including full name, address, state, zip code, telephone number, and a valid payment method information. By submitting such payment information, you automatically authorize #team to charge all Subscription fees incurred through your account to any such payment instruments.
 
-Should automatic billing fail to occur for any reason, #stratapp will issue an electronic invoice indicating that you must proceed manually, within a certain deadline date, with the full payment corresponding to the billing period as indicated on the invoice.
+Should automatic billing fail to occur for any reason, #team will issue an electronic invoice indicating that you must proceed manually, within a certain deadline date, with the full payment corresponding to the billing period as indicated on the invoice.
 
 **Free Trial**
 
-\#stratapp may, at its sole discretion, offer a Subscription with a free trial for a limited period of time ("Free Trial").
+\#team may, at its sole discretion, offer a Subscription with a free trial for a limited period of time ("Free Trial").
 
 You may be required to enter your billing information in order to sign up for the Free Trial.
 
-If you do enter your billing information when signing up for the Free Trial, you will not be charged by #stratapp until the Free Trial has expired. On the last day of the Free Trial period, unless you cancelled your Subscription, you will be automatically charged the applicable Subscription fees for the type of Subscription you have selected.
+If you do enter your billing information when signing up for the Free Trial, you will not be charged by #team until the Free Trial has expired. On the last day of the Free Trial period, unless you cancelled your Subscription, you will be automatically charged the applicable Subscription fees for the type of Subscription you have selected.
 
-At any time and without notice, #stratapp reserves the right to (i) modify the terms and conditions of the Free Trial offer, or (ii) cancel such Free Trial offer.
+At any time and without notice, #team reserves the right to (i) modify the terms and conditions of the Free Trial offer, or (ii) cancel such Free Trial offer.
 
 **Fee Changes**
 
-\#stratapp, in its sole discretion and at any time, may modify the Subscription fees for the Subscriptions. Any Subscription fee change will become effective at the end of the then-current Billing Cycle.
+\#team, in its sole discretion and at any time, may modify the Subscription fees for the Subscriptions. Any Subscription fee change will become effective at the end of the then-current Billing Cycle.
 
-\#stratapp will provide you with reasonable prior notice of any change in Subscription fees to give you an opportunity to terminate your Subscription before such change becomes effective.
+\#team will provide you with reasonable prior notice of any change in Subscription fees to give you an opportunity to terminate your Subscription before such change becomes effective.
 
 Your continued use of the Service after the Subscription fee change comes into effect constitutes your agreement to pay the modified Subscription fee amount.
 
@@ -71,7 +71,7 @@ You may not use as a username the name of another person or entity or that is no
 
 **Intellectual Property**
 
-The Service and its original content (excluding Content provided by users), features and functionality are and will remain the exclusive property of #stratapp and its licensors. The Service is protected by copyright, trademark, and other laws of both the Australia and foreign countries. Our trademarks and trade dress may not be used in connection with any product or service without the prior written consent of #stratapp. Nothing in these Terms constitutes a transfer of any Intellectual Property rights from us to you.
+The Service and its original content (excluding Content provided by users), features and functionality are and will remain the exclusive property of #team and its licensors. The Service is protected by copyright, trademark, and other laws of both the Australia and foreign countries. Our trademarks and trade dress may not be used in connection with any product or service without the prior written consent of #team. Nothing in these Terms constitutes a transfer of any Intellectual Property rights from us to you.
 
 You are permitted to use the Service only as authorised by us. As a user, you are granted a limited, non-exclusive, revocable, non-transferable right to use the Service to create, display, use, play, and download Content subject to these Terms.
 
@@ -83,9 +83,9 @@ Any opinions, advice, statements, services, offers, or other information or cont
 
 **Links To Other Web Sites**
 
-Our Service may contain links to third-party web sites or services that are not owned or controlled by #stratapp.
+Our Service may contain links to third-party web sites or services that are not owned or controlled by #team.
 
-\#stratapp has no control over, and assumes no responsibility for, the content, privacy policies, or practices of any third party web sites or services. You further acknowledge and agree that #stratapp shall not be responsible or liable, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with use of or reliance on any such content, goods or services available on or through any such web sites or services.
+\#team has no control over, and assumes no responsibility for, the content, privacy policies, or practices of any third party web sites or services. You further acknowledge and agree that #team shall not be responsible or liable, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with use of or reliance on any such content, goods or services available on or through any such web sites or services.
 
 We only provide links to external websites as a convenience, and the inclusion of such a link to external websites do not imply our endorsement of those websites. You acknowledge and agree that when you access other websites on the Internet, you do so at your own risk.
 
@@ -123,7 +123,7 @@ Without limiting the foregoing, in no event will our aggregate liability to you 
 
 Your use of the Service is at your sole risk. The Service is provided on an "AS IS" and "AS AVAILABLE" basis. The Service is provided without warranties of any kind, whether express or implied, including, but not limited to, implied warranties of merchantability, fitness for a particular purpose, non-infringement or course of performance.
 
-\#stratapp its subsidiaries, affiliates, and its licensors do not warrant that a) the Service will function uninterrupted, secure or available at any particular time or location; b) any errors or defects will be corrected; c) the Service is free of viruses or other harmful components; or d) the results of using the Service will meet your requirements.
+\#team its subsidiaries, affiliates, and its licensors do not warrant that a) the Service will function uninterrupted, secure or available at any particular time or location; b) any errors or defects will be corrected; c) the Service is free of viruses or other harmful components; or d) the results of using the Service will meet your requirements.
 
 This disclaimer of liability applies to any damages or injury caused by any failure of performance, error, omission, interruption, deletion, defect, delay in operation or transmission, computer virus, communication line failure, theft, or destruction or unauthorized access or, alteration of or use of record in connection with the use or operation of the Service, whether for breach of contract, tortious behaviour, negligence or any other cause of action.
 
