@@ -33,5 +33,6 @@ fields:
   hidden: false
 pages:
 - _features/deploy-a-task-across-5-50-or-500-teams-in-30-seconds.md
+- _features/live-photo-gallery-feed-from-all-or-selected-teams.md
 - _features/team-shared-user-experience.md
 - features.md
