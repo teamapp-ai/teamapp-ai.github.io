@@ -89,4 +89,4 @@ menu:
 
 # easy & affordable team-based pricing
 
-##### team-based pricing with unlimited users and changes per team, with the corresponding management app free for all managers
+##### team-based pricing with unlimited users and changes per team, with the corresponding management app free for unlimited users
