@@ -24,7 +24,7 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Right
-  headline: "<strong>management app - free for team leaders, managers and executives</strong>"
+  headline: "<strong>management app: free for all team leaders, managers and executives</strong>"
   content: |-
     The Management App is free for an unlimited number of managers, giving your organization exactly what they need to manage tasks across teams:
 
@@ -40,9 +40,11 @@ page_sections:
   block: feature-1
   media_alignment: Left
   content: |-
-    #team is the world's first task app designed around a team-shared user experience, what encourages teamwork and is faster for teams.
+    #team is the world's first task app designed around a team-shared user experience, which encourages teamwork and is faster for teams.
 
     Each team can see a live burndown chart of tasks completed versus remaining and time. Teams can compare their performance with other teams you nominate. For example, I want this team to see their performance relative to all teams in Chicago.
+
+    Team Leaders can easily see the exact status of performance and what needs a focus as they take over a shift.
   headline: "<strong>team app - unique design that encourages teamwork</strong>"
   media:
     image: "/uploads/3.png"
