@@ -68,14 +68,14 @@ stratapp_features:
 - feature_title: employee productivity
   feature_text: |-
     * 15-30% increase in productivity
-    * provide every employee the tools to succeed
-    * attract and retain the best talent, for the right reasons
+    * create healthy competition across teams
+    * prevent lazy team members from demotivating high performers
   icon: "/uploads/icon-chart-person.svg"
 - feature_title: business performance
   feature_text: |-
-    * 15-30% increase in business valuation
-    * de-risk and make the business agile
-    * execute strategy and daily work above expectations
+    * measure what matters, objectively with real time data
+    * manage by exception, saving everyone time
+    * make the business easier to sell and/or manage
   icon: "/uploads/icon-cog-belt.svg"
 slug: ''
 
