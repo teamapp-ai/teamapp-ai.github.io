@@ -63,7 +63,7 @@ stratapp_features:
 - feature_title: next gen ready
   feature_text: |-
     * by 2025 more than 75% of employees are y-gen / millennials
-    * asking y-gen to collaborate via email and static docs, is like asking all of us to go back to using fax machines
+    * y-gen thrive on transparency and are happy to be accountable, if we make the expectations on them clear
   icon: "/uploads/icon-thumbsup.svg"
 - feature_title: employee productivity
   feature_text: |-
