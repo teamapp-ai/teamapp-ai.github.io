@@ -40,12 +40,12 @@ page_sections:
   block: feature-1
   media_alignment: Left
   content: |-
-    #team is the world's first task app designed around a team-shared user experience, which encourages teamwork and is faster for teams, because 95% of tasks can be done by anyone in a team.  You just need to capture the data of who completed what when.
+    #team is the world's first task app designed around a team-shared user experience. This encourages teamwork and is faster for teams, because 95% of tasks can be done by anyone in a team.  You want to capture the data of who completed what when.
 
     Each team can see a live burndown chart of their tasks completed versus remaining tasks and time. Teams can compare their performance with other teams you nominate. For example, I want this team to see their performance relative to all teams in Chicago.
 
     Team Leaders can easily see what they need to focus on as they take over a shift, and in seconds they can see what's been done on time, late or missed.
-  headline: "<strong>team app: unique design that encourages teamwork</strong>"
+  headline: "<strong>team app: easy team-shared UX to encourage teamwork</strong>"
   media:
     image: "/uploads/3.png"
     alt_text: task app with burndown chart for teams
