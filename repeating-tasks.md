@@ -136,11 +136,11 @@ Commercial kitchens typically have 20-35 repeating tasks per day:
 
 There are several excellent app options for collaboration or managing projects such as [Trello](https://trello.com/) and [Asana](https://asana.com/) or [Monday](https://monday.com/) and [Wrike](https://www.wrike.com/)**.**
 
-But what about repeating tasks across one or multiple teams.  The things that occur in your business that you want to track daily/ weekly/ fortnightly/ monthly/ quarterly/ annually.
+\#team is the best task app for managing repeating tasks across one or multiple teams.  The things that you want to track daily/ weekly/ fortnightly/ monthly/ quarterly/ annually.
 
-This is where #team excels.  Multiple teams executing consistently and with more visibility than you've ever hard before.
+With #team you will have multiple teams executing consistently and with more visibility than you've ever hard before.
 
-You can't manage what you don't measure. #team produces live and actionable intelligence  in a meaningful format for all levels.
+You can't manage what you don't measure. #team produces live and actionable intelligence  in a meaningful format for each level of the organization.
 
 ## **one-off tasks**
 
@@ -158,7 +158,7 @@ Use #team to create the rhythm and cadence you are aiming to achieve across your
 
 When do you want certain things done? When do you want the team focused and not interrupted?
 
-People matter. Small things matter. Team morale and culture decline if things start to get missed or "forgotten". 
+People matter. Small things matter. Team morale and culture decline if things start to get missed or "forgotten".
 
 Regularly missing even routine things negatively impacts overall team culture and performance if left unchecked.
 
@@ -194,7 +194,7 @@ In the meantime, having a live photo gallery that can be quickly filtered by the
 
 ## **millennials**
 
-Millennials (Gen Y) grew up in the internet age and apart from 'getting' the tech in less than 60 seconds, millennial team members and team leaders have a natural preference for transparency that makes collaboration and teamwork so much easier. 
+Millennials (Gen Y) grew up in the internet age and apart from 'getting' the tech in less than 60 seconds, millennial team members and team leaders have a natural preference for transparency that makes collaboration and teamwork so much easier.
 
 Gen Z were born into a highly sophisticated media and computer environment and are even more tech savvy and expert than their Gen Y forerunners.
 
