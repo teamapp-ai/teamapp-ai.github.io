@@ -50,5 +50,6 @@ fields:
   hidden: true
   default: blog
 pages:
+- _blog/avoid-too-many-checklist-tasks-and-other-responses.md
 - _blog/using-verb-noun-when-creating-tasks.md
 - _blog/why-leading-retail-brands-use-team.md
