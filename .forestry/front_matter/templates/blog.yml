@@ -51,5 +51,6 @@ fields:
   default: blog
 pages:
 - _blog/avoid-too-many-checklist-tasks-and-other-responses.md
+- _blog/deploy-l-d-where-it-counts-most.md
 - _blog/using-verb-noun-when-creating-tasks.md
 - _blog/why-leading-retail-brands-use-team.md
