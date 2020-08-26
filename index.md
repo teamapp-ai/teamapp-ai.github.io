@@ -40,7 +40,7 @@ stratapp_features:
     * encourage teamwork with a unique team-shared user experience
     * improve and sustain both customer and employee experience
   icon: "/uploads/icon-handshake.svg"
-- feature_title: next gen ready
+- feature_title: team millennials
   feature_text: |-
     * by 2025 more than 75% of employees are y-gen / millennials
     * y-gen thrive on digital collaboration and transparency, and they are happy to be accountable if we make the expectations on them clear
