@@ -1,7 +1,7 @@
 ---
-title: save as default the aspects you are interested in
+title: see the aspects you are interested in
 date: 2020-08-03 14:00:00 +0000
-slug: save as default the aspects you are interested in
+slug: see the aspects you are interested in
 seo_title: ''
 seo_description: ''
 feature_image: ''
