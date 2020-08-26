@@ -16,7 +16,7 @@ page_sections:
   content: |-
     # every team in your org has repeating tasks
 
-    ##### achieving consistency on repeating tasks will positively impact your customer and employee experience
+    ##### achieving consistency on repeating tasks will elevate your customer and employee experience
 
     [start free trial](/free-trial){: .btn .btn-primary}
   media:
