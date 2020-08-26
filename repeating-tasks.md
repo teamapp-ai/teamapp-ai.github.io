@@ -4,8 +4,9 @@ slug: repeating-tasks
 seo_title: task app for repeating tasks and one off tasks for one team or multiple
   teams
 seo_description: "#team is a task app for repeating tasks and one off tasks across
-  multiple teams.  Every team in your organization has repeating tasks.  Make sure
-  repeating tasks get done."
+  multiple teams.  Every team in your organization has repeating tasks. Achieving
+  consistency on repeating tasks will positively impact your customer and employee
+  experience."
 feature_image: "/uploads/strategy_execution.png"
 page_sections:
 - template: content-feature
@@ -15,7 +16,7 @@ page_sections:
   content: |-
     # every team in your org has repeating tasks
 
-    ##### achieving consistency on repeating tasks will elevate your customer and employee experience
+    ##### achieving consistency on repeating tasks will positively impact your customer and employee experience
 
     [start free trial](/free-trial){: .btn .btn-primary}
   media:
