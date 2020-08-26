@@ -85,7 +85,8 @@ menu:
 ---
 {:.font-weight-bold}
 
-# easy & affordable team-based pricing
+# affordable team-based pricing
 
-##### team-based pricing with unlimited users and changes per team,  
-free management app for unlimited users
+##### team-based pricing and easy shared UX, with unlimited users per team
+
+plus a free management app for all team leaders, managers and executives
