@@ -142,7 +142,7 @@ Hotel and resort sites typically have 75-150 repeating tasks per day:
 * back office / reservations / finance
 * housekeeping
 * kitchens
-* procurement 
+* procurement
 * staff rostering / payroll
 * opening and closing checklists
 * safety, compliance and security
@@ -157,16 +157,16 @@ For these businesses the number of repeating tasks will vary significantly based
 * outbound operations
 * opening and closing checklists
 * safety, compliance and security
-* procurement 
+* procurement
 * staff rostering / payroll
 * cleaning schedules
 * maintenance schedules
 
-## **repeating tasks**
+## **repeating tasks app**
 
 There are several excellent options for work collaboration or managing projects, such as [Trello](https://trello.com/), [Asana](https://asana.com/), [Monday](https://monday.com/) and [Wrike](https://www.wrike.com/)**.**
 
-\#team is the best task app for managing repeating tasks across one or multiple teams.  The things that you want to track daily/ weekly/ fortnightly/ monthly/ quarterly/ annually.
+**#team is the best task app for managing repeating tasks across one or multiple teams.**  Things you want to track daily/ weekly/ fortnightly/ monthly/ quarterly/ annually.
 
 With #team you will have multiple teams executing consistently and with more visibility than ever before.
 
@@ -174,7 +174,7 @@ You can't manage what you don't measure. #team produces live and actionable inte
 
 ## **one-off tasks**
 
-Of course #team also handles one-off tasks. 
+Of course #team also handles one-off tasks.
 
 For example, imagine you want 300 of your teams to be aware of a marketing campaign and there is something that requires their action by 4pm Thursday.
 
