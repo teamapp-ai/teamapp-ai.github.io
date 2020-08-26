@@ -18,6 +18,6 @@ menu:
 ---
 {:.font-weight-bold}
 
-# easily manage repeating and one off tasks across multiple teams
+# easily manage repeating and one-off tasks across multiple teams
 
-##### be up and running in 1 day on a beautifully simple app that requires no end user training
+##### be up and running in 1 day, on a beautifully simple app that requires no end user training
