@@ -162,7 +162,7 @@ For these businesses the number of repeating tasks will vary significantly based
 * cleaning schedules
 * maintenance schedules
 
-## **repeating tasks app**
+## **repeating tasks app: 1 or multiple teams**
 
 There are several excellent options for work collaboration or managing projects, such as [Trello](https://trello.com/), [Asana](https://asana.com/), [Monday](https://monday.com/) and [Wrike](https://www.wrike.com/)**.**
 
@@ -172,9 +172,9 @@ With #team you will have multiple teams executing consistently and with more vis
 
 You can't manage what you don't measure. #team produces live and actionable intelligence, in a meaningful format, for each level of the organization.
 
-## **one-off tasks**
+## **one-off tasks: multiple teams**
 
-Of course #team also handles one-off tasks.
+\#team also handles one-off tasks, in a powerful way when applied across multiple teams.
 
 For example, imagine you want 300 of your teams to be aware of a marketing campaign and there is something that requires their action by 4pm Thursday.
 
