@@ -56,7 +56,7 @@ menu:
     weight: 1
 
 ---
-## **examples of repeating tasks**
+## **repeating tasks app: example tasks**
 
 ### office based work
 
@@ -172,7 +172,7 @@ With #team you will have multiple teams executing consistently and with more vis
 
 You can't manage what you don't measure. #team produces live and actionable intelligence, in a meaningful format, for each level of the organization.
 
-## **one-off tasks: multiple teams**
+## **one-off tasks app: multiple teams**
 
 \#team also handles one-off tasks, in a powerful way when applied across multiple teams.
 
