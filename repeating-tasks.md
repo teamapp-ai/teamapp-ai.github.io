@@ -13,9 +13,9 @@ page_sections:
   media_alignment: Right
   headline: ''
   content: |-
-    # every team has repeating tasks
+    # every team in your org has repeating tasks
 
-    ##### achieving consistency on repeating tasks will elevate both customer and employee experience
+    ##### achieving consistency on repeating tasks will elevate your customer and employee experience
 
     [start free trial](/free-trial){: .btn .btn-primary}
   media:
@@ -34,7 +34,7 @@ page_sections:
     4. Logs - drill down with powerful filters to see exactly what you're looking for
     5. Content - rapidly deploy tasks across one or multiple teams
   media:
-    image: "/uploads/2.png"
+    image: "/uploads/task-app-management-dashboard.png"
     alt_text: task app with dashboards for managers
 - template: content-feature
   block: feature-1
@@ -114,43 +114,74 @@ Commercial kitchens typically have 20-35 repeating tasks per day:
 
 ### facilities maintenance
 
-* x
+Facilities maintenance tasks will vary significantly based on the facility:
+
+* opening and closing checklists
+* safety, compliance and security
+* cleaning schedules
+* maintenance schedules
 
 ### aged & health care
 
-* x
+Aged & health care sites typically have 50-75 repeating tasks per day:
+
+* opening and closing checklists
+* safety, compliance and security
+* patient schedules
+* room schedules
+* shared areas schedules
+* cleaning schedules
+* maintenance schedules
 
 ### hotel operations
 
-* x
+Hotel and resort sites typically have 75-150 repeating tasks per day:
 
-### manufacturing
+* front of house
+* back office / reservations / finance
+* housekeeping
+* kitchens
+* procurement 
+* staff rostering / payroll
+* opening and closing checklists
+* safety, compliance and security
+* cleaning schedules
+* maintenance schedules
 
-* x
+### manufacturing, distribution & warehousing
 
-### distribution & warehousing
+For these businesses the number of repeating tasks will vary significantly based on the facility:
 
-* x
+* inbound operations
+* outbound operations
+* opening and closing checklists
+* safety, compliance and security
+* procurement 
+* staff rostering / payroll
+* cleaning schedules
+* maintenance schedules
 
 ## **repeating tasks**
 
-There are several excellent app options for collaboration or managing projects such as [Trello](https://trello.com/) and [Asana](https://asana.com/) or [Monday](https://monday.com/) and [Wrike](https://www.wrike.com/)**.**
+There are several excellent options for work collaboration or managing projects, such as [Trello](https://trello.com/), [Asana](https://asana.com/), [Monday](https://monday.com/) and [Wrike](https://www.wrike.com/)**.**
 
 \#team is the best task app for managing repeating tasks across one or multiple teams.  The things that you want to track daily/ weekly/ fortnightly/ monthly/ quarterly/ annually.
 
-With #team you will have multiple teams executing consistently and with more visibility than you've ever hard before.
+With #team you will have multiple teams executing consistently and with more visibility than ever before.
 
-You can't manage what you don't measure. #team produces live and actionable intelligence  in a meaningful format for each level of the organization.
+You can't manage what you don't measure. #team produces live and actionable intelligence, in a meaningful format, for each level of the organization.
 
 ## **one-off tasks**
 
-Of course #team handles one-off tasks. Imagine you want 300 of your teams to be aware of a marketing campaign and there is something that requires their action by 4pm Thursday.
+Of course #team also handles one-off tasks. 
+
+For example, imagine you want 300 of your teams to be aware of a marketing campaign and there is something that requires their action by 4pm Thursday.
 
 Whatever you do, don't send an email! You may receive 180 replies to your inbox, then you still have to manually figure out who has done what, who hasn't and who has a question.
 
-With #team, you can assign the right teams to the right tasks in seconds, then instantly see in real-time what teams are up to date by the deadline.
+With #team, you can assign the right teams to the right tasks in seconds, then instantly see in real-time what teams are up to date as the deadline approaches.
 
-Or you can go one better. Set yourself a custom alert so you can proactively manage by exception, for example: "Alert me if more than 10% of my teams have not completed the initiative by 3:30pm Thursday."
+You can then manage by exception, saving everyone time.
 
 ## **culture & cadence**
 
@@ -158,15 +189,13 @@ Use #team to create the rhythm and cadence you are aiming to achieve across your
 
 When do you want certain things done? When do you want the team focused and not interrupted?
 
-People matter. Small things matter. Team morale and culture decline if things start to get missed or "forgotten".
-
-Regularly missing even routine things negatively impacts overall team culture and performance if left unchecked.
+The little things do matter. Team morale, culture and customer experience decline if things start to get missed or "forgotten".
 
 With #team, you don't need to be there in person to see what is happening and what isn't.
 
 ## **learning & development**
 
-\#team changes the game here on three fronts.
+\#team changes the game for L&D on three fronts.
 
 1\. You can deploy L&D content to precisely the point when employees really need it - for the things they are about to do right now. You can even set that L&D content to must-be-viewed before certain initiatives can be done.
 
@@ -176,21 +205,21 @@ With #team, you don't need to be there in person to see what is happening and wh
 
 ## **actionable intelligence**
 
-Let's consider 50 teams that average 20 tasks that you want to measure per day across customer service, operations, OH&S, administration and finance.
+Let say you have 50 teams that average 20 tasks per day across customer service, operations, OH&S, administration and finance.
 
-That equals **1,000 tasks per day, 365,000 per year and in 3 years that's a huge 1.1 million** tasks that you have said are important for the business and your teams to focus on.
+That is **1,000** tasks per day, **365,000** tasks per year.  In 3 years that's **1.1 million** tasks.
 
-But that's just the beginning. Can you imagine the power of overlaying these performance insights against data from sales, customer experience, resourcing and employee satisfaction?
+But that's just the beginning.  Can you imagine the power of overlaying these performance insights against data from sales, customer experience, resourcing and employee satisfaction?
 
-Not only can you run the business better with actionable intelligence, you can elevate the performance of every team whilst de-risking the business and increasing its value.
+Not only can you run the business better with actionable intelligence, you can elevate the performance of every team whilst derisking the business and increasing its value.
 
 ## **artificial intelligence**
 
 There are many ways AI can make our clients' lives easier.
 
-We are developing AI features to proactively assist clients in decision making and elevating the team performance.
+\#team are developing AI features to proactively assist clients in decision making and elevating the team performance.
 
-In the meantime, having a live photo gallery that can be quickly filtered by the tasks, teams and locations each manager is interested in, is significantly better than using email or having your cluster or area managers physically driving to physically inspect.
+In the meantime, having a live photo gallery that can be quickly filtered by the tasks, teams and locations each manager is interested in, is significantly better than using email or having your cluster or area managers physically drive to a site to inspect.
 
 ## **millennials**
 
