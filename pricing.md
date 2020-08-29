@@ -3,16 +3,13 @@ title: pricing
 layout: pricing
 faqs:
 - question: How long is the free trial?
-  answer: |-
-    We offer a 21 day free trial.
-
-    21 days is plenty of time to get a feel for #team and your content organized.
-
-    There are no set-up fees. No consultants, integration or hardware costs.
-
-    No end user training costs.
-
-    Go live within 2 cups of coffee!
+  answer: "The free trial is 21 days, but you'll be up and running within 2 cups of
+    coffee!\n\n\\#team works beautifully for just one team, or hundreds of teams across
+    different states/ countries/ formats/ brands.\n\nClients usually take:  \n\\-
+    1 day to configure and publish tasks to teams  \n\\- 5 days to test with their
+    first 2-3 teams, to refine the content  \n\\- every 5 days to rollout to batches
+    of teams at a time\n\nThere are no set-up fees. No consultants, integration or
+    hardware costs.  You can rollout team with minimal to no end user training."
 - question: How does annual billing work?  What is the currency and contract term?
   answer: |-
     You can choose from monthly or annual billing, payable in advance.  Annual pricing is discounted 17-22% on monthly pricing.
