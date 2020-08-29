@@ -87,6 +87,6 @@ menu:
 
 # affordable team-based pricing
 
-##### easy team-shared UX | unlimited users per team | run multiple teams/sites/brands
+##### teamwork UX | unlimited users | run one or multiple teams/sites/countries/brands
 
 plus a free management app for all team leaders, managers and executives
