@@ -18,7 +18,7 @@ faqs:
 
     There is no contract term beyond the billing cycle. On annual billing, your active teams are billed annually in advance. As you activate more teams in #team, these are billed pro-rata for the balance of the year, so you can easily manage all of your teams to one annual billing cycle.
 
-    Deactivated teams automatically credit against future teams you activate on the #team.
+    Deactivated teams automatically credit against future teams you activate.
 
     You can manage more than one organization under the same account, with different billing and payment methods per organization. You can run more than one brand per organization.
 - question: What payment methods do you accept?
