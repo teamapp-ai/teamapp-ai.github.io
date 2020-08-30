@@ -6,7 +6,7 @@ seo_description: "#team's task app features for repeating and one off tasks acro
   multiple teams."
 hero_image: ''
 date: 
-feature_image: ''
+feature_image: "/uploads/3.png"
 slug: ''
 alt_text: strategy execution features for time to value in days
 icon: ''
