@@ -20,6 +20,8 @@ By running onsite workshops and reviews with frontline teams, we've noticed this
 
 For the best results, we recommend:
 
-1. **xxx** - xxx
-2. **xxx** - xxx
-3. **xxx** - xxx
+1. **start with critical tasks** - even if you envisage running 150 tasks per day per team, start with the 10-15 critical tasks
+2. **minimize responses** - only request photos and other responses per task that you really need, so the team feel that each request is worthy
+3. **minimize checklists** - if a task requires more than 6 checklist items, split the task into 2 or more tasks
+
+With respect to 2) and 3) above, you will notice the Team App is designed for fast teamwork.  Simple tasks on the Team App take only a few seconds to mark off as completed.  Teams like that, and the instant gratification of task completion and scoreboard changes.  With this in mind, you are better off deploying a higher number of tasks per team, than making individual tasks more complicated to complete.
