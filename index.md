@@ -32,7 +32,7 @@ seo_description: "#team is a beautifully simple task app for managing repeating 
 redirect_from:
 - "/events/"
 - "/tutorials/"
-feature_image: ''
+feature_image: "/uploads/computer-hero.png"
 stratapp_features:
 - feature_title: "#team culture"
   feature_text: |-
