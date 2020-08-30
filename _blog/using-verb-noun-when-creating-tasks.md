@@ -5,14 +5,14 @@ category:
 date: 2020-08-15 07:38:49 +0000
 layout: blog
 title: use verb-noun wording when creating tasks
-sub_heading: using verb noun when creating tasks
+sub_heading: verb-noun saves time at all levels
 video_id: ''
 banner_image: ''
 slug: we recommend verb noun wording when creating tasks
 seo_title: "#team task app recommending verb noun wording when creating tasks for
   teams"
 seo_description: "#team task app recommending verb noun wording when creating tasks
-  for teams."
+  for teams.  Verb noun saves time at all levels."
 feature_image: ''
 
 ---
