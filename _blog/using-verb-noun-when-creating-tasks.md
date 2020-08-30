@@ -18,15 +18,15 @@ feature_image: ''
 ---
 \#team is designed for speed and teamwork.
 
-You can help that by using a verb-noun construct for task wording.
+You can accelerate that by using a verb-noun construct for task wording.
 
-For example:
+Examples of verb-noun construct:
 
 * Set the music per attached schedule
 * Check the customer areas per checklist below
 * Take a photo of the visual merchandising displays at point of sale
 * Count the number of oversized items
 
-The verb-noun construct is the fastest way for teams to interpret tasks without confusion.  This natural communication construct goes back to our childhood: "wash your hair", "make your bed" and "clean the car".
+The verb-noun construct is the fastest way for teams to interpret tasks without confusion.  This natural style of communication goes back to our childhood: "wash your hair", "make your bed" and "clean the car".
 
-The application of verb-noun to task management was perfected in the early 90's with the reengineering concepts introduced by Hammer & Champy, and before that the activity-based-costing methods pioneered by Kaplan.
+The application of verb-noun to task management was perfected in the early 90's with the reengineering and process mapping methodologies introduced by Hammer & Champy, and before that activity-based-costing thinking pioneered by Kaplan.
