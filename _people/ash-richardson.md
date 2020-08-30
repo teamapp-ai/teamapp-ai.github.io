@@ -9,4 +9,4 @@ layout: person
 hide_on_about_page: false
 
 ---
-20 years digital tech and strategy experience, including co-founding #stratapp, Accenture, MP of Oyster Partners (now DigitasLBi) and ex-VC investing in technology startups. Unique skills on product strategy, design and offshoring.
+20 years digital tech and strategy experience: co-founder #stratapp, Accenture, MP of Oyster Partners (now DigitasLBi) and ex-VC investing in technology startups. Unique skills on product strategy, design and offshoring.
