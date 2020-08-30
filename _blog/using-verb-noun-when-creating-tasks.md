@@ -29,4 +29,4 @@ Examples of verb-noun construct:
 
 The verb-noun construct is the fastest way for teams to interpret tasks without confusion.  This natural style of communication goes back to our childhood: "wash your hair", "make your bed" and "clean the car".
 
-The application of verb-noun to task management was perfected in the early 90's with the reengineering and process mapping methodologies introduced by Hammer & Champy, and before that activity-based-costing thinking pioneered by Kaplan.
+The application of verb-noun to task management was perfected in the early 90's with the reengineering and process mapping methodologies introduced by Hammer & Champy, and before that the activity-based-costing thinking pioneered by Kaplan.
