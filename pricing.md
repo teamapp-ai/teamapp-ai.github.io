@@ -72,7 +72,7 @@ seo_title: easy & affordable team based pricing
 seo_description: "#team task app has easy & affordable team based pricing, with unlimited
   users and changes per team."
 quote: "#### "
-feature_image: ''
+feature_image: "/uploads/team-pricing.PNG"
 slug: ''
 menu:
   navigation:
