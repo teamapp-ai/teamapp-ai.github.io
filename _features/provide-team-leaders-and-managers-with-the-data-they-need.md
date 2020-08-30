@@ -11,18 +11,19 @@ hero_image: ''
 icon: ''
 
 ---
-\#team task app providing team leaders and managers with everything they need.
+\#team's task app provides team leaders and managers with everything they need to elevate team performance on tasks.
 
-Team leaders using the local Team App can:
+Team leaders, using the Team App, can instantly see:
 
-* Instantly see what's been done and what's been missed
-* Who has done what
+* What's been done and what's been missed
+* Who's done what, when
 * Performance of their team relative to other teams
-* Progress today versus a live burndown chart dashboard of tasks versus time
+* Progress today versus a live burn-down chart of tasks versus time
 
-Managers and executives using the Management App can see across all teams:
+Managers and executives using the Management App can instantly see across all teams:
 
 * Team performance
 * Exceptions
-* Live photo gallery feed of photo related tasks
+* Opportunities to improve tasks, schedules and L&D
+* Live photo gallery feeds of photo related tasks
 * Saved filter defaults on the tasks and teams they are interested in
