@@ -84,6 +84,6 @@ menu:
 
 # affordable team-based pricing
 
-##### teamwork UX | unlimited users | run one team or multiple teams/sites/time-zones/brands
+##### unlimited users per team | run one team or multiple teams/sites/time-zones/brands
 
-plus a free management app for all team leaders, managers and executives
+plus a free management app for unlimited team leaders, managers and executives
