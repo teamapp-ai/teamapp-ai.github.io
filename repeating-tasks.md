@@ -56,7 +56,7 @@ menu:
     weight: 1
 
 ---
-## **repeating tasks app: example tasks**
+## **repeating tasks: examples**
 
 ### office based work
 
@@ -162,7 +162,7 @@ For these businesses the number of repeating tasks will vary significantly based
 * cleaning schedules
 * maintenance schedules
 
-## **repeating tasks app: 1 or multiple teams**
+## **repeating tasks: 1 or multiple teams**
 
 There are several excellent options for work collaboration or managing projects, such as [Trello](https://trello.com/), [Asana](https://asana.com/), [Monday](https://monday.com/) and [Wrike](https://www.wrike.com/)**.**
 
@@ -172,7 +172,7 @@ With #team you will have multiple teams executing consistently and with more vis
 
 You can't manage what you don't measure. #team produces live and actionable intelligence, in a meaningful format, for each level of the organization.
 
-## **one-off tasks app: multiple teams**
+## **one-off tasks: multiple teams**
 
 \#team also handles one-off tasks, in a powerful way when applied across multiple teams.
 
