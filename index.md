@@ -4,7 +4,7 @@ layout: homepage-new
 hero_intro: "<h3 class=\"font-weight-light\">a beautifully simple app for</h3>\n\n<h1
   class=\"mt-4 mb-0\">repeating tasks</h1>\n\n<h5 class=\"font-weight-light\">for
   one team or multiple teams</h5>\n\n<p class=\"mt-4 mb-0 h1\">one-off tasks</p>\n\n<h5
-  class=\"font-weight-light\">for one team or multiple teams</h5>  \n<a href=\"/repeating-tasks\"
+  class=\"font-weight-light\">across multiple teams</h5>  \n<a href=\"/repeating-tasks\"
   class=\"btn btn-white rounded-pill\" data-aos=\"fade-left\" data-aos-delay=\"500\">learn
   more</a>"
 hero_image: "/uploads/computer-hero.png"
