@@ -4,7 +4,7 @@ category:
 - "#tips"
 date: 2020-08-25 07:24:59 +0000
 layout: blog
-title: avoid too many checklist/responses
+title: avoid too many checklists
 sub_heading: "#team's task app is built for fast teamwork, if used correctly"
 video_id: ''
 banner_image: ''
