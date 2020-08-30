@@ -1,11 +1,12 @@
 ---
 title: home
 layout: homepage-new
-hero_intro: "<div class=\"h3 font-weight-light\">a beautifully simple app for</div>\n\n{:.mt-4
-  .mb-0}\n\n# repeating tasks\n\n{:.font-weight-light }\n\n##### for one team or multiple
-  teams\n\n{:.mt-4 .mb-0 .h1}\n\none-off tasks\n\n{:.h5 } across multiple teams\n\n{:.mt-5
-  .mb-0}  \n<a href=\"/repeating-tasks\" class=\"btn btn-white rounded-pill\" data-aos=\"fade-left\"
-  data-aos-delay=\"500\">learn more</a>"
+hero_intro: "<h3 class=\"font-weight-light\">a beautifully simple app for</h3>\n\n<h1
+  class=\"mt-4 mb-0\">repeating tasks</h1>\n\n<h5 class=\"font-weight-light\">for
+  one team or multiple teams</h5>\n\n<p class=\"mt-4 mb-0 h1\">one-off tasks</h1>\n\n<h5
+  class=\"font-weight-light\">for one team or multiple teams</h5>  \n<a href=\"/repeating-tasks\"
+  class=\"btn btn-white rounded-pill\" data-aos=\"fade-left\" data-aos-delay=\"500\">learn
+  more</a>"
 hero_image: "/uploads/computer-hero.png"
 intro_text: |-
   {:.font-weight-bold}
