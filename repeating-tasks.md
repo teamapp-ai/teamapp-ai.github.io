@@ -7,7 +7,7 @@ seo_description: "#team is a task app for repeating tasks and one off tasks acro
   multiple teams.  Every team in your organization has repeating tasks. Achieving
   consistency on repeating tasks will positively impact your customer and employee
   experience."
-feature_image: "/uploads/strategy_execution.png"
+feature_image: "/uploads/6.png"
 page_sections:
 - template: content-feature
   block: feature-1
