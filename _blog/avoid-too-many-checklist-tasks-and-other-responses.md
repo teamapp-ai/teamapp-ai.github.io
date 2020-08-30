@@ -16,7 +16,7 @@ feature_image: ''
 ---
 We've noticed team leaders, managers and executives get very excited once they understand the content page on the Management App - the page for assigning tasks to teams.
 
-By running onsite workshops and reviews with frontline teams, we've noticed this excitement at a management or head office level, can be deployed in a way that works against the productivity of teams.
+We've noticed this excitement at a management or head office level, can sometimes be deployed in a way that works against the productivity of teams.
 
 For the best results, we recommend:
 
@@ -24,4 +24,6 @@ For the best results, we recommend:
 2. **minimize responses** - only request photos and other responses per task that you really need, so the team feel that each request is worthy
 3. **minimize checklists** - if a task requires more than 6 checklist items, split the task into 2 or more tasks
 
-With respect to 2) and 3) above, you will notice the Team App is designed for fast teamwork.  Simple tasks on the Team App take only a few seconds to mark off as completed.  Teams like that, and the instant gratification of task completion and scoreboard changes.  With this in mind, you are better off deploying a higher number of tasks per team, than making individual tasks more complicated to complete.
+With respect to 2) and 3) above, you will notice the Team App is designed for fast teamwork.  Simple tasks on the Team App take only a few seconds to mark off as completed.  Teams like that, and the instant gratification of how the task completes and the scoreboard changes.  
+
+With this in mind, you are better off deploying a higher number of tasks per team, than making individual tasks more complicated to complete.
