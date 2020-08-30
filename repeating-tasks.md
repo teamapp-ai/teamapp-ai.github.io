@@ -14,7 +14,7 @@ page_sections:
   media_alignment: Right
   headline: ''
   content: |-
-    # every team in your org has repeating tasks
+    # every team has repeating tasks
 
     ##### achieving consistency on repeating tasks will elevate your customer and employee experience
 
