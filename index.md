@@ -4,9 +4,8 @@ layout: homepage-new
 hero_intro: "<div class=\"h3 font-weight-light\">a beautifully simple app for</div>\n\n{:.mt-4
   .mb-0}\n\n# repeating tasks\n\n{:.font-weight-light .font-italic}\n\n##### for one
   team or multiple teams\n\n{:.mt-4 .mb-0 .h1}\none-off tasks\n\n{:.h5  .font-weight-light
-  .font-italic}\nacross multiple teams\n\n{:.mt-5 .mb-0}  \n<a href=\"/repeating-tasks\"
-  class=\"btn btn-white rounded-pill\" data-aos=\"fade-left\" data-aos-delay=\"500\">learn
-  more</a>"
+  } across multiple teams\n\n{:.mt-5 .mb-0}  \n<a href=\"/repeating-tasks\" class=\"btn
+  btn-white rounded-pill\" data-aos=\"fade-left\" data-aos-delay=\"500\">learn more</a>"
 hero_image: "/uploads/computer-hero.png"
 intro_text: |-
   {:.font-weight-bold}
