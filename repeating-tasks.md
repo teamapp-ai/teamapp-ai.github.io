@@ -58,7 +58,7 @@ menu:
 ---
 ## **repeating tasks - examples**
 
-### office based work
+### offices
 
 Offices typically have 30-50 repeating tasks per week:
 
@@ -69,7 +69,7 @@ Offices typically have 30-50 repeating tasks per week:
 * customer related tasks
 * supplier/partner/contractor related tasks
 
-### retail
+### retail / pharma
 
 Retail outlets typically have 20-30 repeating tasks per day:
 
