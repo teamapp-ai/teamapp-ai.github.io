@@ -60,7 +60,7 @@ menu:
 
 ### offices
 
-Offices typically have 30-50 repeating tasks per week:
+Offices typically have 20-50 repeating tasks per week:
 
 * opening and closing checklists
 * facilities, ITC and kitchen supplies
@@ -69,9 +69,9 @@ Offices typically have 30-50 repeating tasks per week:
 * customer related tasks
 * supplier/partner/contractor related tasks
 
-### retail / pharma
+### retail & pharmacies
 
-Retail outlets typically have 20-30 repeating tasks per day:
+Retail & pharmacy outlets typically have 30-80 repeating tasks per day:
 
 * opening and closing checklists
 * visual merchandising layouts and promotions
@@ -80,7 +80,7 @@ Retail outlets typically have 20-30 repeating tasks per day:
 
 ### quick service restaurants
 
-QSR outlets typically have 70-100 repeating tasks per day:
+QSR outlets typically have 70-130 repeating tasks per day:
 
 * opening and closing checklists
 * food safety and compliance
@@ -107,7 +107,7 @@ Gyms typically have 35-50 repeating tasks per day:
 
 ### commercial kitchens
 
-Commercial kitchens typically have 20-35 repeating tasks per day:
+Commercial kitchens typically have 20-50 repeating tasks per day:
 
 * opening and closing checklists
 * food safety and compliance
