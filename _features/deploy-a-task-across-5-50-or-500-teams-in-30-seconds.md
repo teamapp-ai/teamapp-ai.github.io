@@ -5,9 +5,9 @@ slug: publish a task across 5, 50 or 500 teams in 30 seconds
 seo_title: "#team task app to help you eliminate internal email"
 seo_description: "#team task app to help you eliminate internal email. You can publish
   a task across 5, 50 or 500 teams in less than 30 seconds."
-feature_image: ''
-hero_image: ''
-icon: ''
+feature_image: "/uploads/illustration-12.png"
+hero_image: "/uploads/illustration-12.png"
+icon: "/uploads/illustration-12.png"
 
 ---
 \#team task app to help you eliminate internal email. You can publish a task across 5, 50 or 500 teams in less than 30 seconds.
