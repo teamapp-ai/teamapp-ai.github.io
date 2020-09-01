@@ -6,9 +6,9 @@ seo_title: "#team task app providing team leaders and managers with everything t
   need"
 seo_description: "#team task app providing team leaders and managers with everything
   they need."
-feature_image: "/uploads/illustration-1.png"
-hero_image: "/uploads/illustration-1.png"
-icon: "/uploads/illustration-1.png"
+feature_image: "/uploads/illustration-1-1.png"
+hero_image: "/uploads/illustration-1-1.png"
+icon: "/uploads/illustration-1-1.png"
 
 ---
 \#team's task app provides team leaders and managers with everything they need to elevate team performance on tasks.
