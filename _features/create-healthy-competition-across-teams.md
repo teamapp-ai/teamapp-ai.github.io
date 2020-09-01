@@ -5,9 +5,9 @@ slug: create healthy competition across teams
 seo_title: "#team task app that creates healthy competition across teams"
 seo_description: "#team task app that creates healthy competition across teams. This
   is far more effective than top-down control."
-feature_image: ''
-hero_image: ''
-icon: ''
+feature_image: "/uploads/illustration-19.png"
+hero_image: "/uploads/illustration-19.png"
+icon: "/uploads/illustration-19.png"
 
 ---
 \#team's task app allows you to define which teams can see their performance relative to other teams.
