@@ -5,9 +5,9 @@ slug: live photo gallery feed
 seo_title: "#team task app with a live photo gallery feed"
 seo_description: "#team task app with a live photo gallery feed of the task types
   and teams you are interested in."
-feature_image: ''
-hero_image: ''
-icon: ''
+feature_image: "/uploads/illustration-13.png"
+hero_image: "/uploads/illustration-13.png"
+icon: "/uploads/illustration-13.png"
 
 ---
 \#team's task app has a live photo gallery feed of the task types and teams you are interested in.
