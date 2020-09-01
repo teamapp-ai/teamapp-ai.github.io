@@ -7,9 +7,9 @@ seo_title: "#team task app has default filters so you can manage tasks you are i
 seo_description: "#team task app has default filters so you can manage tasks and teams
   you are interested in. Save dashboards, results and live photo galleries by task
   types, teams, geographies and brands."
-feature_image: "/uploads/test.jpeg"
-hero_image: "/uploads/test.jpeg"
-icon: "/uploads/test.jpeg"
+feature_image: "/uploads/illustration-15.png"
+hero_image: "/uploads/illustration-15.png"
+icon: "/uploads/illustration-15.png"
 
 ---
 \#team's task app has default filters so you can manage the tasks and teams you are interested in.
