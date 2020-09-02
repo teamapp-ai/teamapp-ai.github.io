@@ -85,4 +85,4 @@ menu:
 
 ##### unlimited users per team | easy for one or multiple teams/sites/time-zones/brands
 
-plus a free management app for unlimited team leaders, managers and executives
+plus a free management app for unlimited team leaders, managers, executives and head office teams
