@@ -23,9 +23,7 @@ We don't recommend using team for one-off tasks on one team.  There are plenty o
 
 Every team in your organization has repeating tasks.
 
-Moving the management of repeating tasks out of calendar apps, spreadsheets and paper checklists will give you all of these benefits:
-
-![](/uploads/team-benefits.PNG)
+Moving the management of repeating tasks out of calendar apps, spreadsheets and paper checklists will elevate performance and save everyone time.
 
 \#team really comes into its own when managing repeating tasks across multiple teams/ sites/ stores.  #team is the best task app in the world right now for managing repeating tasks across multiple teams, due to:
 
