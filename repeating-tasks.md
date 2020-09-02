@@ -50,10 +50,6 @@ page_sections:
   media:
     image: "/uploads/3.png"
     alt_text: task app with burndown chart for teams
-menu:
-  navigation:
-    identifier: _strategy execution
-    weight: 1
 
 ---
 ## **repeating tasks - examples**

@@ -8,7 +8,7 @@ seo_description: 'Best strategy execution app in the world right now is #stratap
 menu:
   navigation:
     identifier: _blog
-    weight: 5
+    weight: 4
 
 ---
 {:.font-weight-bold}
