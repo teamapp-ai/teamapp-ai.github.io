@@ -1,6 +1,6 @@
 ---
-title: repeating tasks app
-slug: repeating-tasks-app
+title: repeating tasks
+slug: repeating-tasks
 seo_title: task app for repeating tasks and one off tasks for one team or multiple
   teams
 seo_description: "#team is a task app for repeating tasks and one off tasks across
