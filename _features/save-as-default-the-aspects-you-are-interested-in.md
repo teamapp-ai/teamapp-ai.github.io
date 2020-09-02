@@ -1,6 +1,6 @@
 ---
 title: manage the aspects you are interested in
-date: 2020-08-03 14:00:00 +0000
+date: 2020-08-29 14:00:00 +0000
 slug: manage the aspects you are interested in
 seo_title: "#team task app has default filters so you can manage tasks you are interested
   in"
