@@ -1,7 +1,7 @@
 ---
-title: live photo gallery feed from all or selected teams
+title: live photo gallery feed from teams
 date: 2020-08-28 14:00:00 +0000
-slug: live photo gallery feed
+slug: live photo gallery feed from teams
 seo_title: "#team task app with a live photo gallery feed"
 seo_description: "#team task app with a live photo gallery feed of the task types
   and teams you are interested in."
