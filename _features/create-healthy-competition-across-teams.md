@@ -1,6 +1,6 @@
 ---
 title: create healthy competition across teams
-date: 2020-08-05 14:00:00 +0000
+date: 2020-08-25 14:00:00 +0000
 slug: create healthy competition across teams
 seo_title: "#team task app that creates healthy competition across teams"
 seo_description: "#team task app that creates healthy competition across teams. This

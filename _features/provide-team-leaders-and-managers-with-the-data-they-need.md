@@ -1,6 +1,6 @@
 ---
 title: provide team leaders and managers with everything they need
-date: 2020-08-11 14:00:00 +0000
+date: 2020-08-24 14:00:00 +0000
 slug: provide team leaders and managers with everything they need
 seo_title: "#team task app providing team leaders and managers with everything they
   need"
