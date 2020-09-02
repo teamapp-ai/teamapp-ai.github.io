@@ -1,6 +1,6 @@
 ---
 title: create one-off or repeating tasks
-date: 2020-08-10 14:00:00 +0000
+date: 2020-08-30 14:00:00 +0000
 slug: create one-off or repeating tasks
 seo_title: "#team task app for one-off or repeating tasks across teams"
 seo_description: "#team task app for one-off or repeating tasks across multiple teams."
