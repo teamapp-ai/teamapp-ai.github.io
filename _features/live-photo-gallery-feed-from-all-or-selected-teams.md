@@ -1,5 +1,5 @@
 ---
-title: live photo gallery feed from teams
+title: filter a live photo gallery feed from teams
 date: 2020-08-28 14:00:00 +0000
 slug: live photo gallery feed from teams
 seo_title: "#team task app with a live photo gallery feed"
