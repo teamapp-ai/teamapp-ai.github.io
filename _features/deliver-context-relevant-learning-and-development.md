@@ -6,9 +6,9 @@ seo_title: "#team task app with learning and development built in"
 seo_description: "#team task app with learning and development built in. You can add
   L&D content to each task, so you're team know exactly what to do as they are completing
   each task."
-feature_image: "/uploads/illustration-6.png"
-hero_image: "/uploads/illustration-6.png"
-icon: "/uploads/illustration-6.png"
+feature_image: "/uploads/illustration-6-1.png"
+hero_image: "/uploads/illustration-6-1.png"
+icon: "/uploads/illustration-6-1.png"
 
 ---
 \#team changes the game for L&D on three fronts.
