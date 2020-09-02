@@ -17,6 +17,6 @@ For example, imagine you work at head office in visual merchandising and you are
 You can save that selection as your default, and #team will give you a live data feed of:
 
 * VM related tasks done or missed by your selection of teams
-* Live photo gallery feed of tasks that have photos
+* Live photo gallery feed of tasks that have photos (for example, compliance related tasks where you want to capture digital evidence of completion - photo, time, date, responses to related questions and who completed it)
 
-These even run as screensaver, so you can project them onto a large screen monitor for your whole team at head office to see in open plan work areas.
+The photo gallery you select (by filtering on teams and task types) can run as a screensaver, thus enabling you to project them onto a large screen monitor for your whole team at head office to see live.
