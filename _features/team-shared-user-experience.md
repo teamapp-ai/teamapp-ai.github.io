@@ -1,5 +1,5 @@
 ---
-title: team shared user experience
+title: gain speed on a team-shared user experience
 date: 2020-08-23 14:00:00 +0000
 slug: team shared user experience
 seo_title: "#team task app shared user experience to save time and encourage teamwork"
