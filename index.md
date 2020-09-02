@@ -25,10 +25,10 @@ columns_text_2: |-
 
   xxxx
 features: []
-seo_title: task app for repeating and one off tasks across multiple teams
-seo_description: "#team is a beautifully simple task app for managing repeating and
-  one off tasks across one team or multiple teams - including different time zones,
-  team types and brands."
+seo_title: repeating tasks app for one or multiple teams
+seo_description: "#team is a beautifully simple app for managing repeating tasks and
+  one-off tasks across one or multiple teams - including different time zones, team
+  types and brands."
 redirect_from:
 - "/events/"
 - "/tutorials/"
