@@ -4,9 +4,9 @@ date: 2020-08-10 14:00:00 +0000
 slug: create one-off or repeating tasks
 seo_title: "#team task app for one-off or repeating tasks across teams"
 seo_description: "#team task app for one-off or repeating tasks across multiple teams."
-feature_image: "/uploads/illustration-8.png"
-hero_image: "/uploads/illustration-8.png"
-icon: "/uploads/illustration-8.png"
+feature_image: "/uploads/illustration-8-1.png"
+hero_image: "/uploads/illustration-8-1.png"
+icon: "/uploads/illustration-8-1.png"
 
 ---
 \#team allows you to manage both one-off and repeating tasks across one or multiple teams.
