@@ -6,9 +6,9 @@ seo_title: "#team task app shared user experience to save time and encourage tea
 seo_description: "#team task app has a unique team shared user experience to save
   time and encourage teamwork. 95% of tasks can be done by anyone, so we have designed
   the UX with this in mind, capturing who completed what task."
-feature_image: "/uploads/illustration-4.png"
-hero_image: "/uploads/illustration-4.png"
-icon: "/uploads/illustration-4.png"
+feature_image: "/uploads/illustration-4-1.png"
+hero_image: "/uploads/illustration-4-1.png"
+icon: "/uploads/illustration-4-1.png"
 
 ---
 \#team has a unique team shared user experience to save time and encourage teamwork. 95% of team tasks can be done by anyone, so we have designed the UX with this in mind, capturing who completed what task.
