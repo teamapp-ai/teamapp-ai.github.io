@@ -126,7 +126,7 @@ body {
 	h6, .h6 { font-size: $h6-font-size }
 }
 
-h1 {
+h1, .h1 {
 	font-size: 1.875rem;
 }
 .shrinkable { overflow: hidden; transition: all 0.3s ease; }
