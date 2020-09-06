@@ -41,7 +41,7 @@ page_sections:
   block: feature-1
   media_alignment: Left
   content: |-
-    #team is the world's first task app designed around a team-shared user experience. This encourages teamwork and is faster for teams, because 95% of tasks can be done by anyone in a team.  You still capture the data of who completed what when.
+    #team is the world's first repeating tasks app designed around a team-shared user experience. This encourages teamwork and is faster for teams, because 95% of tasks can be done by anyone in a team.  You still capture the data of who completed what when.
 
     Each team can see a live burndown chart of their tasks completed versus remaining tasks and time. Teams can compare their performance with other teams you nominate. For example, I want this team to see their performance relative to all teams in Chicago.
 
@@ -75,6 +75,7 @@ Retail & pharmacy outlets typically have 30-80 repeating tasks per day:
 
 * opening and closing checklists
 * visual merchandising layouts and promotions
+* stock control and changes
 * end of shift reporting and handovers
 * staff rostering
 
