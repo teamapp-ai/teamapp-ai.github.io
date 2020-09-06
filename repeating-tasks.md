@@ -225,10 +225,8 @@ In the meantime, having a live photo gallery that can be quickly filtered by the
 
 ## **millennials**
 
-Millennials (Gen Y) grew up in the internet age and apart from 'getting' the tech in less than 60 seconds, millennial team members and team leaders have a natural preference for transparency that makes collaboration and teamwork so much easier.
+Millennials (Gen Y) grew up in the internet age and apart from understanding and using #team in about 60 seconds, millennial team members and team leaders have a natural preference for transparency that makes collaboration and teamwork so much easier.
 
-Gen Z were born into a highly sophisticated media and computer environment and are even more tech savvy and expert than their Gen Y forerunners.
+Gen Z and Gen Y share a culture of self sufficiency and the prevailing attitude we've experienced with #team is:
 
-However they both share a culture of self sufficiency and the prevailing attitude we've experienced with #team is:
-
-"_I don't mind visibility of my performance. I just want the expectations on me to be clear. #team does that for me, and the whole team, so we can just get on with the job"._
+"_I don't mind visibility of my performance and accountability. I just want the expectations on me to be clear. #team does that for me, and the whole team. I can get on with the job without having to keep asking my manager what's next."_
