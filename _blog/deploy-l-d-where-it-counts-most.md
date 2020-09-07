@@ -4,11 +4,11 @@ category:
 - "#tips"
 date: 2020-08-25 07:27:23 +0000
 layout: blog
-title: deploy L&D where it counts
+title: add learning & development where it matters
 sub_heading: you can add learning and development to each task
 video_id: ''
 banner_image: ''
-slug: add learning and development where it counts
+slug: add learning and development where it matters
 seo_title: "#team's task app has learning and development built into each task"
 seo_description: "#team's task app has learning and development built into each task.
   You can deploy L&D content to precisely the point when employees really need it."
