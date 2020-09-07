@@ -5,7 +5,7 @@ category:
 date: 2020-08-25 07:27:23 +0000
 layout: blog
 title: add learning & development where it matters
-sub_heading: you can add learning and development to each task
+sub_heading: add L&D to each task to save time
 video_id: ''
 banner_image: ''
 slug: add learning and development where it matters
