@@ -5,7 +5,7 @@ category:
 date: 2020-08-25 07:24:59 +0000
 layout: blog
 title: avoid too many checklists
-sub_heading: "#team's task app is built for fast teamwork, if used correctly"
+sub_heading: "#team's is built for fast teamwork"
 video_id: ''
 banner_image: ''
 slug: avoid too many checklist tasks and other responses
@@ -15,8 +15,6 @@ feature_image: ''
 
 ---
 We've noticed team leaders, managers and executives get very excited once they understand the content page on the Management App - the page for assigning tasks to teams.
-
-We've noticed this excitement can sometimes be applied in a way that works against the productivity of frontline teams.
 
 For the best results, we recommend:
 
