@@ -4,7 +4,7 @@ category:
 - "#tips"
 date: 2020-08-25 07:27:23 +0000
 layout: blog
-title: add learning & development where it matters
+title: add L&D content where it matters most
 sub_heading: add L&D to each task to save time
 video_id: ''
 banner_image: ''
@@ -15,7 +15,7 @@ seo_description: "#team's task app has learning and development built into each 
 feature_image: ''
 
 ---
-\#team changes the game for L&D on three fronts:
+\#team changes the game for Learning & Development on three fronts:
 
 1\. You can deploy L&D content to precisely the point when employees really need it - for the things they are about to do right now. You can even set that L&D content to must-be-viewed before certain initiatives can be done.
 
