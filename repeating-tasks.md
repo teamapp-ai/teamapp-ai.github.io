@@ -77,7 +77,7 @@ Retail & pharmacy outlets typically have 30-80 repeating tasks per day:
 * visual merchandising layouts and promotions
 * stock control and changes
 * end of shift reporting and handovers
-* staff rostering
+* staff rostering and compliance
 
 ### quick service restaurants
 
