@@ -89,7 +89,7 @@ QSR outlets typically have 70-130 repeating tasks per day:
 * customer bookings
 * visual merchandising layouts and promotions
 * end of shift reporting and handovers
-* staff rostering
+* staff rostering and compliance
 * food and beverage ordering
 * preparing for peak periods
 * reconciliations and banking
@@ -112,7 +112,10 @@ Commercial kitchens typically have 20-50 repeating tasks per day:
 
 * opening and closing checklists
 * food safety and compliance
-* equipment maintenance
+* cleaning schedules
+* equipment supplies and maintenance
+* staff rostering and compliance
+* menu design and food/beverage ordering
 
 ### facilities maintenance
 
@@ -121,7 +124,8 @@ Facilities maintenance tasks will vary significantly based on the facility:
 * opening and closing checklists
 * safety, compliance and security
 * cleaning schedules
-* maintenance schedules
+* equipment supplies and maintenance
+* staff rostering and compliance
 
 ### aged & health care
 
@@ -129,11 +133,12 @@ Aged & health care sites typically have 50-75 repeating tasks per day:
 
 * opening and closing checklists
 * safety, compliance and security
+* staff rostering and compliance
 * patient schedules
 * room schedules
 * shared areas schedules
 * cleaning schedules
-* maintenance schedules
+* equipment supplies and maintenance
 
 ### hotel operations
 
@@ -144,11 +149,11 @@ Hotel and resort sites typically have 75-150 repeating tasks per day:
 * housekeeping
 * kitchens
 * procurement
-* staff rostering / payroll
+* staff rostering and compliance
 * opening and closing checklists
 * safety, compliance and security
 * cleaning schedules
-* maintenance schedules
+* equipment supplies and maintenance
 
 ### manufacturing, distribution & warehousing
 
@@ -159,9 +164,9 @@ For these businesses the number of repeating tasks will vary significantly based
 * opening and closing checklists
 * safety, compliance and security
 * procurement
-* staff rostering / payroll
+* staff rostering and compliance
 * cleaning schedules
-* maintenance schedules
+* equipment supplies and maintenance
 
 ## **repeating tasks - 1 or multiple teams**
 
