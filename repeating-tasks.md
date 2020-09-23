@@ -67,6 +67,7 @@ Offices typically have 20-50 repeating tasks per week:
 * payroll and bookkeeping
 * team related tasks
 * customer related tasks
+* social media and other marketing related tasks
 * supplier/partner/contractor related tasks
 
 ### retail & pharmacies
@@ -93,6 +94,7 @@ QSR outlets typically have 70-130 repeating tasks per day:
 * food and beverage ordering
 * preparing for peak periods
 * reconciliations and banking
+* social media and other marketing related tasks
 
 ### gyms & recreation centres
 
@@ -102,7 +104,7 @@ Gyms typically have 35-50 repeating tasks per day:
 * safety, compliance and security
 * bathrooms, gym floor and specific rooms
 * sales enquiries and follow-up cadences
-* social media and other marketing cadences
+* social media and other marketing related tasks
 * end of shift reporting and handovers
 * staff rostering and timetable/promotion updates
 
@@ -154,6 +156,7 @@ Hotel and resort sites typically have 75-150 repeating tasks per day:
 * safety, compliance and security
 * cleaning schedules
 * equipment supplies and maintenance
+* social media and other marketing related tasks
 
 ### manufacturing, distribution & warehousing
 
